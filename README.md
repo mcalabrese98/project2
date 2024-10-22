@@ -1,4 +1,4 @@
-##Project Objective:
+#Project Objective:
 
 Identify trends in movie genres, types, and actors that are well-received by audiences, using data from The Movie Database (TMDb) and IMDb reviews. By analyzing key factors such as budget, revenue, ratings, and genre, the project aims to cluster movies into meaningful groups and predict successful investment opportunities using machine learning algorithms.
 
