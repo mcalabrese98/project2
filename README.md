@@ -1,4 +1,4 @@
-#Project Objective:
+Project Objective:
 
 Identify trends in movie genres, types, and actors that are well-received by audiences, using data from The Movie Database (TMDb) and IMDb reviews. By analyzing key factors such as budget, revenue, ratings, and genre, the project aims to cluster movies into meaningful groups and predict successful investment opportunities using machine learning algorithms.
 
@@ -10,7 +10,7 @@ Data Points to Collect
 - Financials: Budget and revenue.
 - Reviews: Text data from audience reviews on IMDb.
 
-#Project Goals
+Project Goals
 - Analyze Trends: Identify patterns in movie genres, budget allocations, and actors that correlate with higher audience reception and revenue.
 - Cluster Analysis: Group movies into clusters to reveal common attributes of successful films.
 - Predictive Modeling: Build machine learning models to forecast a movie’s potential success based on key features and historical data
@@ -26,11 +26,6 @@ Data Points to Collect
 
 
 
-
-
-
-
-Message Gazala Siddiqi, Stefan Holodnick
 
 
 
