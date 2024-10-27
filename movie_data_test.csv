@@ -1,197 +1,424 @@
-budget,revenue,runtime,popularity,vote_average,vote_count,release_date,title,id,genres_0_name,genres_1_name,genres_2_name,production_companies_0_name,production_companies_1_name,production_companies_2_name,original_language,production_countries_0_name
-100000000,242988466,90,71.287,6.629,5897,2009-09-17,Cloudy with a Chance of Meatballs,22794,Animation,Comedy,Family,Sony Pictures Animation,Columbia Pictures,,en,United States of America
-0,0,99,100.144,6.2,79,2024-08-27,Untamed Royals,1298238,Thriller,Crime,Drama,BH5,Tigre Pictures,,es,Mexico
-0,709136,97,207.355,5.0,29,2015-01-29,The Gigolo,323260,Romance,Drama,Comedy,"Cameron Entertainment Co., Ltd.",Mega-Vision Productions Limited,,cn,Hong Kong
-35000000,326706115,109,77.197,7.4,11933,2006-06-29,The Devil Wears Prada,350,Drama,Comedy,,Fox 2000 Pictures,20th Century Fox,Wendy Finerman Productions,en,United States of America
-0,0,61,310.882,7.0,2,2024-10-11,Tatsulok: Tatlo Magkasalo,1357459,Drama,Romance,,Vivamax,,,tl,Philippines
-110000000,228738393,114,68.274,5.574,5866,2007-01-15,Ghost Rider,1250,Thriller,Action,Fantasy,Crystal Sky Pictures,Relativity Media,Columbia Pictures,en,United States of America
-0,0,110,105.995,5.4,215,2024-07-04,Space Cadet,1019411,Comedy,Romance,,Stampede Ventures,Amazon MGM Studios,,en,United States of America
-5962570,35775420,143,74.439,6.8,34,2024-08-15,Stree 2,1112426,Horror,Comedy,,Maddock Films,Jio Studios,,hi,India
-0,165620,89,98.501,5.9,7,2024-08-09,Good One,1122618,Drama,,,Smudge Films,International Pigeon Production,Tinygiant,en,United States of America
-0,0,119,124.773,8.462,105,2024-06-26,Drawing Closer,1291559,Romance,Drama,,Nikkatsu Corporation,Django Film,,ja,Japan
-8500000,213928762,154,100.161,8.488,27786,1994-09-10,Pulp Fiction,680,Thriller,Crime,,Miramax,A Band Apart,Jersey Films,en,United States of America
-0,6870131,117,309.803,7.0,88,2024-09-12,Lee,832964,Drama,History,War,RocketScience,Juggle Productions,Brouhaha Entertainment,en,United Kingdom
-84000000,59918422,94,79.878,4.2,1814,2005-02-11,Son of the Mask,10214,Fantasy,Comedy,Family,New Line Cinema,Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 1 KG,Dark Horse Entertainment,en,Germany
-50000000,73956241,146,67.357,7.4,1362,1999-09-17,The Hurricane,10400,Drama,,,Universal Pictures,Azoff Entertainment,Beacon Communications,en,United States of America
-0,0,93,93.303,5.0,12,1976-12-29,My Father's Private Secretary,66075,Comedy,,,Dania Film,,,it,Italy
-9000000,48015416,147,64.133,7.165,7018,2019-07-03,Midsommar,530385,Horror,Drama,Mystery,B-Reel Films,Square Peg,,en,Sweden
-50000000,0,109,286.234,6.9,2575,2024-04-10,Civil War,929590,War,Action,Drama,DNA Films,IPR.VC,A24,en,Finland
-0,3984000,108,100.992,5.8,4,2024-03-14,Oh My Ghost : The Finale,1216195,Comedy,Horror,,Mono Film,Film Guru,Mono Originals,th,Thailand
-0,0,85,89.123,5.8,22,2024-09-05,Attack of the Meth Gator,1091298,Horror,Science Fiction,Action,The Asylum,,,en,United States of America
-200000000,96175599,139,67.281,6.111,1264,2024-01-31,Argylle,848538,Action,Adventure,Comedy,Marv,Apple Studios,Cloudy Productions,en,United Kingdom
-0,3777969,110,75.332,5.983,1127,2021-01-26,Wrong Turn,630586,Horror,Thriller,,Constantin Film,The H Collective,Tea Shop & Film Company,en,Germany
-0,0,84,78.987,6.0,441,2023-02-22,Die Hart,1077280,Comedy,Action,Thriller,HartBeat Productions,,,en,United States of America
-0,0,77,83.335,7.318,1066,2014-12-12,Tinker Bell and the Legend of the NeverBeast,297270,Adventure,Animation,Family,DisneyToon Studios,,,en,United States of America
-0,0,113,76.573,6.0,2,2024-03-22,Rita,1241752,Drama,,,Vivamax,,,tl,Philippines
-0,0,106,67.744,6.8,270,2022-08-12,Wifelike,1001835,Science Fiction,Mystery,Thriller,Steven Paul Production,Wonder Street,Front Street Pictures,en,United States of America
-200000000,1028600000,97,65.47,7.04,11953,2016-06-16,Finding Dory,127380,Adventure,Animation,Comedy,Pixar,Walt Disney Pictures,,en,United States of America
-0,0,148,114.359,6.0,15,2024-07-04,Uranus 2324,1167366,Romance,Drama,Science Fiction,VelCurve Studio,,,th,Thailand
-28000000,42241257,109,122.711,6.8,1120,2024-04-16,Abigail,1111873,Horror,Thriller,,Project X Entertainment,Radio Silence Productions,Universal Pictures,en,United States of America
-19000000,140705322,89,72.734,5.751,7220,2016-07-11,Sausage Party,223702,Adventure,Animation,Comedy,Columbia Pictures,Annapurna Pictures,Point Grey Pictures,en,Canada
-0,86600000,99,67.945,7.898,2806,2022-06-11,Dragon Ball Super: Super Hero,610150,Animation,Science Fiction,Action,Toei Animation,Shueisha,Fuji Television Network,ja,Japan
-40000000,118133252,77,575.847,7.572,9108,2005-09-12,Corpse Bride,3933,Romance,Fantasy,Animation,Tim Burton Productions,Laika,Patalex Productions,en,United Kingdom
-30000000,5090881,104,493.55,6.5,73,2024-09-12,The Killer's Game,507241,Action,Comedy,Crime,STXfilms,Dogbone Entertainment,Mad Chance,en,United States of America
-3000000,15935068,88,88.082,4.6,969,1993-08-13,Jason Goes to Hell: The Final Friday,10285,Horror,Thriller,,Sean S. Cunningham Films,,,en,United States of America
-0,14493284,109,89.111,7.4,2211,2000-03-16,Malena,10867,Drama,,,Miramax,Medusa Produzione,Pacific Pictures,it,Italy
-60000000,488628188,90,155.449,7.743,17020,2001-05-18,Shrek,808,Animation,Comedy,Fantasy,Pacific Data Images,DreamWorks Animation,,en,United States of America
-0,0,186,100.131,7.7,808,1963-03-27,The Leopard,1040,Drama,,,Titanus,Société Générale de Cinématographie (S.G.C.),Société Nouvelle Pathé Cinéma,it,France
-105000000,270997378,98,259.169,7.214,5543,2009-12-08,The Princess and the Frog,10198,Animation,Romance,Fantasy,Walt Disney Pictures,Walt Disney Animation Studios,,en,United States of America
-85000000,406000000,110,121.496,7.865,4346,2021-12-01,Sing 2,438695,Animation,Family,Music,Universal Pictures,Illumination,,en,United States of America
-120000000,347234916,115,88.071,6.95,11657,2004-07-15,"I, Robot",2048,Action,Science Fiction,,Davis Entertainment,Laurence Mark Productions,Canlaws Productions,en,United States of America
-22000000,321365567,195,76.004,8.565,15775,1993-12-15,Schindler's List,424,Drama,History,War,Amblin Entertainment,,,en,United States of America
-5000000,61768190,93,84.445,6.836,1890,2015-04-18,Dragon Ball Z: Resurrection 'F',303857,Action,Animation,Science Fiction,Toei Animation,Fizz Sound Creation,Toei Company,ja,Japan
-20000000,22217407,89,68.817,6.4,2218,2007-03-16,Dead Silence,14001,Horror,,,Evolution Entertainment,Universal Pictures,Twisted Pictures,en,United States of America
-0,0,103,87.947,5.3,21,2023-11-23,172 Days,1134754,Drama,Romance,,Starvision Plus,,,id,Indonesia
-12000000,12567788,84,156.692,6.198,225,2024-08-28,Afraid,1062215,Horror,Science Fiction,Thriller,Blumhouse Productions,Depth of Field,,en,United States of America
-0,0,82,238.63,5.7,454,2013-10-29,All Hallows' Eve,231001,Horror,,,Ruthless Pictures,,,en,United States of America
-62000000,288175335,143,72.283,7.104,7710,2018-01-10,Maze Runner: The Death Cure,336843,Science Fiction,Action,Adventure,The Gotham Group,Temple Hill Entertainment,20th Century Fox,en,United States of America
-37000000,113100000,109,99.709,6.953,3948,2004-06-23,White Chicks,12153,Comedy,Crime,,Columbia Pictures,Revolution Studios,Wayans Bros. Entertainment,en,United States of America
-2600000,164000000,88,131.929,7.105,5794,1940-02-23,Pinocchio,10895,Animation,Family,Fantasy,Walt Disney Productions,,,en,United States of America
-15000000,115857413,124,111.409,7.585,2222,2023-11-03,Godzilla Minus One,940721,Science Fiction,Horror,Action,TOHO,TOHO Studios,Robot Communications,ja,Japan
-61000000,370890259,149,119.91,7.893,18486,2014-10-01,Gone Girl,210577,Mystery,Thriller,Drama,20th Century Fox,Regency Enterprises,,en,United States of America
-0,0,104,149.549,6.0,1145,2024-06-04,Under Paris,1001311,Action,Drama,Horror,Let Me Be,,,fr,France
-0,0,109,77.534,6.2,60,2024-02-08,Breaking and Re-entering,1166073,Action,Comedy,,MandarinVision,Applause Entertainment,,zh,Taiwan
-0,0,92,420.605,5.8,30,2024-10-10,Daddy's Head,1089123,Horror,,,arthrofilm,Capture,Onsight,en,United Kingdom
-44000000,12342632,113,73.112,6.187,5714,2014-12-25,The Interview,228967,Action,Comedy,,Point Grey Pictures,Columbia Pictures,,en,United States of America
-110000000,405421518,123,123.452,7.503,4935,2022-03-30,Sonic the Hedgehog 2,675353,Action,Adventure,Family,Original Film,Blur Studio,Marza Animation Planet,en,Japan
-110000000,785896632,120,137.644,7.494,17816,2018-05-10,Deadpool 2,383498,Action,Comedy,Adventure,Maximum Effort,Genre Films,20th Century Fox,en,United States of America
-0,0,83,84.178,3.4,5,2024-10-25,Rippy,1249532,Horror,Mystery,,Red Dot World,Radioactive Pictures,Eclectik Vision,en,Australia
-80000000,0,108,324.998,6.609,570,2024-09-20,Wolfs,877817,Comedy,Thriller,Action,Smoke House Pictures,Plan B Entertainment,Apple Studios,en,United States of America
-15000000,20289986,147,86.142,7.8,6137,2001-06-06,Mulholland Drive,1018,Thriller,Drama,Mystery,StudioCanal,Les Films Alain Sarde,Asymmetrical Productions,en,France
-0,0,94,209.996,5.9,70,1978-07-14,To Be Twenty,55685,Comedy,,,International Daunia Film,,,it,Italy
-0,0,145,250.625,7.3,74,2024-09-10,The Shadow Strays,1151949,Action,Crime,Thriller,Frontier Pictures,XYZ Films,,id,Indonesia
-0,0,60,127.553,0.0,0,2024-09-26,Kiskisan,1337395,Drama,,,Vivamax,,,tl,Philippines
-0,0,57,65.152,6.0,1,2019-06-05,USA: Life in a High Security Prison,706463,Documentary,,,Pallas Télévision,,,en,France
-6600000,4982335,108,101.208,6.4,1417,2021-07-14,Titane,630240,Drama,Thriller,Horror,Kazak Productions,ARTE France Cinéma,Frakas Productions,fr,Belgium
-150000000,895921036,157,138.016,7.812,20541,2005-11-16,Harry Potter and the Goblet of Fire,674,Adventure,Fantasy,,Warner Bros. Pictures,Heyday Films,Patalex IV Productions Limited,en,United Kingdom
-0,0,82,72.878,6.1,10,2024-10-15,Sweet Bobby: My Catfish Nightmare,1361048,Documentary,,,RAW,,,en,United Kingdom
-3700000,41000000,86,63.676,8.1,7898,1988-04-16,My Neighbor Totoro,8392,Fantasy,Animation,Family,Studio Ghibli,Nibariki,Tokuma Shoten,ja,Japan
-340000000,704709660,142,300.877,7.1,5517,2023-05-17,Fast X,385687,Action,Crime,Thriller,Universal Pictures,Original Film,One Race,en,United States of America
-55000000,94182533,132,75.412,7.064,1519,2024-04-18,Challengers,937287,Romance,Drama,,Pascal Pictures,Why Are You Acting? Productions,Frenesy Film,en,Italy
-0,0,94,124.762,4.2,16,2023-05-12,Hunting Games,1115396,Action,Thriller,TV Movie,Charach Productions,Koenig Pictures,,en,United States of America
-0,0,91,84.879,6.1,8,2024-09-27,Die Alone,1141182,Horror,Thriller,,Minds Eye Entertainment,,,en,Canada
-145000000,1445638421,114,132.857,7.0,9021,2023-07-19,Barbie,346698,Comedy,Adventure,,LuckyChap Entertainment,Heyday Films,NB/GG Pictures,en,United Kingdom
-100000000,169327687,78,77.865,7.563,6661,2000-12-15,The Emperor's New Groove,11688,Adventure,Animation,Comedy,Walt Disney Pictures,Walt Disney Feature Animation,,en,United States of America
-175000000,749200054,122,77.714,5.92,21006,2016-08-03,Suicide Squad,297761,Action,Adventure,Fantasy,Warner Bros. Pictures,RatPac Entertainment,DC Films,en,United States of America
-175000000,857611174,95,183.645,7.9,21830,2015-06-17,Inside Out,150540,Animation,Family,Adventure,Pixar,Walt Disney Pictures,,en,United States of America
-0,14,100,319.871,5.934,61,2024-06-21,Hijack 1971,1147710,Crime,Action,Thriller,Perfect Storm Film,Channel Plus,,ko,South Korea
-0,59520000,125,70.407,7.9,62,2024-04-04,How to Make Millions Before Grandma Dies,1103621,Drama,,,GDH 559,Jor Kwang Films,,th,Thailand
-0,0,73,180.398,4.5,2,2019-02-22,Temptation of Mother-in-Law,697251,Romance,,,,,,ko,South Korea
-0,0,94,84.235,4.529,17,2024-10-21,Carved,1308546,Horror,Comedy,,WorthenBrooks,,,en,United States of America
-3300000,50307484,107,81.65,8.381,15000,2014-10-10,Whiplash,244786,Drama,Music,,Bold Films,Blumhouse Productions,Right of Way Films,en,United States of America
-0,1743976,100,69.996,7.4,963,2023-10-05,When Evil Lurks,744857,Horror,Thriller,,Machaco Films,La Puerta Roja,Aramos Cine,es,Argentina
-200000000,726229501,143,72.867,7.077,7153,2021-05-19,F9,385128,Action,Adventure,Crime,Original Film,One Race,Perfect Storm Entertainment,en,United States of America
-8575000,38600000,145,70.824,8.215,3701,2016-06-01,The Handmaiden,290098,Thriller,Drama,Romance,Moho Film,Yong Film,CJ Entertainment,ko,South Korea
-0,0,102,70.665,6.3,82,2022-10-05,The Trapped 13: How We Survived The Thai Cave,1025169,Documentary,,,,,,th,Thailand
-95000000,207318137,91,79.303,7.316,841,2023-10-12,Trolls Band Together,901362,Animation,Family,Music,DreamWorks Animation,,,en,United States of America
-0,0,31,68.413,7.0,59,1999-03-06,Yu☆Gi☆Oh!,378240,Adventure,Animation,Fantasy,Toei Animation,,,ja,Japan
-0,0,0,78.125,7.8,4,2024-09-20,OVERLORD: The Sacred Kingdom,1014505,Action,Adventure,Animation,KADOKAWA,Madhouse,Bit grooove promotion,ja,Japan
-50000000,50054511,118,63.241,6.6,943,2000-08-11,The Replacements,10393,Comedy,,,Warner Bros. Pictures,Bel Air Entertainment,Dylan Sellers Productions,en,United States of America
-24500000,12109608,142,123.18,6.829,419,2022-07-20,Alienoid,601796,Science Fiction,Action,Fantasy,Caper Film,,,ko,South Korea
-17000000,217408513,115,259.909,6.671,3076,2022-09-23,Smile,882598,Horror,Mystery,,Paramount Players,Temple Hill Entertainment,,en,United States of America
-50000000,137328301,115,133.0,6.7,5099,2013-10-09,Escape Plan,107846,Action,Thriller,,Knightsbridge Entertainment,Summit Entertainment,Atmosphere Entertainment MM,en,United Kingdom
-5000000,59256423,110,83.796,7.019,438,2023-12-22,SPY x FAMILY CODE: White,1062807,Animation,Comedy,Adventure,WIT STUDIO,CloverWorks,TOHO,ja,Japan
-130000000,519311965,117,128.192,7.076,19612,2015-07-14,Ant-Man,102899,Science Fiction,Action,Adventure,Marvel Studios,,,en,United States of America
-90000000,484700000,103,159.08,8.2,7681,2022-12-07,Puss in Boots: The Last Wish,315162,Animation,Adventure,Fantasy,DreamWorks Animation,,,en,United States of America
-258000000,894983373,139,73.332,6.432,14003,2007-05-01,Spider-Man 3,559,Action,Adventure,Science Fiction,Laura Ziskin Productions,Marvel Studios,Columbia Pictures,en,United States of America
-90000000,497375381,92,93.952,7.6,13748,1999-10-30,Toy Story 2,863,Animation,Comedy,Family,Pixar,,,en,United States of America
-0,0,91,113.78,6.3,14,2015-08-20,Mom's Friend,387824,Drama,Romance,,Four Seasons of Younghwasa,,,ko,South Korea
-103000000,465361176,155,115.225,8.217,18367,2000-05-04,Gladiator,98,Action,Drama,Adventure,Universal Pictures,Scott Free Productions,Red Wagon Entertainment,en,United Kingdom
-54000000,136766062,162,92.249,7.419,6146,1990-12-25,The Godfather Part III,242,Crime,Drama,Thriller,Paramount Pictures,American Zoetrope,,en,United States of America
-38000000,109906372,112,66.203,5.9,5700,2016-01-14,The 5th Wave,299687,Science Fiction,Adventure,Action,LStar Capital,Columbia Pictures,GK Films,en,United States of America
-0,0,106,103.317,6.6,352,2023-10-06,In the Land of Saints and Sinners,1027073,Action,Thriller,,Facing East Entertainment,Jumpy Cow Pictures,Merlin Films,en,Belgium
-3700000,4710394,119,75.757,6.9,167,2023-10-11,Consent,956964,History,Drama,,Moana Films,Windy Production,Panache Productions,fr,Belgium
-3500000,40423945,92,80.769,7.0,6863,2016-02-19,The Witch,310131,Drama,Mystery,Horror,Very Special Projects,Parts & Labor,RT Features,en,Brazil
-0,0,79,75.835,5.5,8,2023-11-02,Drifter,1025802,Drama,,,Jost Hering Filmproduktion,Salzgeber & Co. Medien,Milieufilm,de,Germany
-40000000,46546197,84,69.422,5.2,570,2004-01-16,Torque,10718,Action,,,Original Film,Village Roadshow Pictures,Warner Bros. Pictures,en,Australia
-0,0,89,64.613,7.5,643,2009-09-10,Prison Break: The Final Break,176241,Action,Drama,Thriller,Adelstein-Parouse Productions,20th Century Fox Television,Original Film,en,United States of America
-7000000,470653000,124,62.961,7.664,10359,1975-06-20,Jaws,578,Horror,Thriller,Adventure,Zanuck/Brown Productions,Universal Pictures,,en,United States of America
-5000000,89070263,85,90.486,7.046,98,2024-02-16,HAIKYU!! The Dumpster Battle,1012201,Animation,Drama,,Production I.G,TOHO,Shueisha,ja,Japan
-155000000,369590675,123,330.569,6.964,1619,2024-07-10,Twisters,718821,Action,Adventure,Thriller,Universal Pictures,Warner Bros. Pictures,Amblin Entertainment,en,United States of America
-25000000,40452643,103,88.442,6.31,1729,2007-08-24,War,10431,Action,Thriller,,Lionsgate,Mosaic Media Group,Fierce Entertainment,en,United States of America
-14000000,4324817,89,77.86,8.019,2967,2010-08-06,Flipped,43949,Romance,Drama,,Reiner / Greisman Productions,,,en,United States of America
-50000000,294200000,124,144.809,7.487,1737,2023-07-14,The Boy and the Heron,508883,Animation,Adventure,Fantasy,Studio Ghibli,,,ja,Japan
-0,0,147,300.231,6.513,38,2024-09-26,Bangkok Breaking: Heaven and Hell,1337309,Action,Crime,Drama,Kongkiat Production,,,th,Thailand
-0,0,105,136.109,4.3,3,2024-06-28,The Chronicles of Libidoists,1029244,Drama,,,Atom Cinema,,,zh,Taiwan
-0,0,129,365.544,6.6,45,2023-07-26,Smugglers,783110,Crime,Action,,Filmmaker R&K,,,ko,South Korea
-195000000,439000000,127,224.21,7.299,4537,2023-06-06,Transformers: Rise of the Beasts,667538,Science Fiction,Adventure,Action,Skydance Media,Paramount Pictures,di Bonaventura Pictures,en,United States of America
-58000000,782837347,108,125.939,7.623,30875,2016-02-09,Deadpool,293660,Action,Adventure,Comedy,20th Century Fox,The Donners' Company,Genre Films,en,United States of America
-110000000,299300000,127,82.38,7.0,8232,2011-09-28,Real Steel,39254,Action,Science Fiction,Drama,DreamWorks Pictures,Reliance Entertainment,21 Laps Entertainment,en,United States of America
-4500000,92000000,95,79.52,7.152,2899,2023-07-26,Talk to Me,1008042,Horror,,,Causeway Films,Screen Australia,South Australian Film Corporation,en,Australia
-40000000,109676311,130,136.749,8.204,15925,2006-10-17,The Prestige,1124,Drama,Mystery,Science Fiction,Warner Bros. Pictures,Touchstone Pictures,Newmarket Films,en,United Kingdom
-200000000,393452111,125,85.169,6.91,6213,2022-10-19,Black Adam,436270,Action,Adventure,Science Fiction,New Line Cinema,Flynn Picture Company,DC Films,en,United States of America
-130000000,321885765,96,89.193,6.997,6795,2010-10-28,Megamind,38055,Animation,Action,Comedy,DreamWorks Animation,Pacific Data Images,,en,United States of America
-150000000,0,118,113.689,6.8,1036,2024-06-20,Beverly Hills Cop: Axel F,280180,Action,Comedy,Crime,Don Simpson/Jerry Bruckheimer Films,Eddie Murphy Productions,,en,United States of America
-0,0,110,79.084,6.0,162,2023-09-22,V/H/S/85,1032948,Horror,Thriller,,Bloody Disgusting,Studio71,Luchagore Productions,en,Mexico
-460000000,2320250281,192,159.364,7.6,11823,2022-12-14,Avatar: The Way of Water,76600,Science Fiction,Adventure,Action,20th Century Studios,Lightstorm Entertainment,,en,United States of America
-0,36178,116,119.124,7.4,1411,2024-05-02,The Idea of You,843527,Romance,Drama,Comedy,Welle Entertainment,Somewhere Pictures,I'll Have Another,en,United States of America
-15000000,0,101,68.385,6.5,151,2024-04-12,Woody Woodpecker Goes to Camp,1239146,Family,Comedy,Animation,Universal 1440 Entertainment,Universal Animation Studios,,en,United States of America
-85000000,346118277,107,70.211,6.133,8826,2017-01-13,xXx: Return of Xander Cage,47971,Action,Adventure,Crime,Rox Productions,Revolution Studios,Maple Cage Productions,en,Canada
-0,0,60,73.647,5.0,1,2008-09-19,Female Prisoner Ayaka: Bitch-Training Torment,296349,Drama,Horror,,Gensou haikyuu-sha Ltd.,,,ja,Japan
-40000000,24982787,90,161.819,7.0,160,2024-07-31,Harold and the Purple Crayon,826510,Adventure,Family,Fantasy,Davis Entertainment,Columbia Pictures,TSG Entertainment,en,United States of America
-35000000,469310836,100,92.987,7.322,16750,2009-06-02,The Hangover,18785,Comedy,,,Legendary Pictures,Green Hat Films,Warner Bros. Pictures,en,United States of America
-0,0,90,65.046,6.58,482,2024-02-01,Orion and the Dark,1139829,Animation,Family,Comedy,DreamWorks Animation,,,en,France
-97000000,619021436,137,98.547,7.823,19146,2017-02-28,Logan,263115,Action,Drama,Science Fiction,Hutch Parker Entertainment,The Donners' Company,Genre Films,en,United States of America
-165000000,657827828,102,131.163,7.733,15518,2014-10-24,Big Hero 6,177572,Adventure,Family,Animation,Walt Disney Pictures,Walt Disney Animation Studios,,en,United States of America
-0,0,3,324.551,5.3,13,2024-10-11,The Most Wonderful Time of the Year,1358947,Animation,Comedy,,20th Television Animation,Gracie Films,,en,United States of America
-0,0,82,99.331,4.2,4,2009-01-01,The Invention of Flesh,390159,Drama,,,Mirá Cine,,,es,Argentina
-200000000,559852396,106,103.359,6.129,7704,2011-06-11,Cars 2,49013,Animation,Family,Adventure,Pixar,Walt Disney Pictures,,en,United States of America
-200000000,760098996,137,110.376,6.86,7138,2019-08-01,Fast & Furious Presents: Hobbs & Shaw,384018,Action,Adventure,Comedy,Chris Morgan Productions,Seven Bucks Productions,Universal Pictures,en,United States of America
-13000000,320415166,113,120.331,7.541,11444,2013-07-18,The Conjuring,138843,Horror,Thriller,,Evergreen Media Group,New Line Cinema,The Safran Company,en,United States of America
-400000,0,60,85.316,6.087,23,2023-10-20,Cursed,1154864,Horror,Action,Drama,,,,es,Spain
-0,1090798,92,190.591,6.285,226,2024-04-12,Sting,1087388,Horror,,,See Pictures,Align,Pictures in Paradise,en,Australia
-1242172,4577403,134,87.831,6.4,118,2022-11-17,Sri Asih,624091,Action,Adventure,Science Fiction,Screenplay Films,SK Global Entertainment,Legacy Pictures,id,Indonesia
-0,0,85,82.972,5.5,31,2023-02-17,The Weapon,1081620,Action,,,Grindstone Entertainment Group,,,en,United States of America
-0,0,103,161.855,5.2,13,1979-06-27,Private Collections,46848,Drama,Romance,,Les Films du Jeudi,FFF-French Movies,Toei Central Film,fr,France
-180000000,676343174,115,72.965,7.4,21992,2016-10-25,Doctor Strange,284052,Action,Adventure,Fantasy,Marvel Studios,,,en,United States of America
-0,0,44,235.621,7.5,11,2024-10-17,LEGO Marvel Avengers: Mission Demolition,1359227,Animation,Comedy,Science Fiction,Marvel Animation,Atomic Cartoons,,en,Canada
-63000000,463517383,136,82.187,8.218,25524,1999-03-31,The Matrix,603,Action,Science Fiction,,Village Roadshow Pictures,Groucho II Film Partnership,Silver Pictures,en,United States of America
-0,970119,130,62.989,6.4,100,2024-05-01,The Dead Don't Hurt,1032425,Western,Drama,Romance,Talipot Studio,Recorded Picture Company,Perceval Pictures,en,Canada
-23000000,105232691,126,66.699,6.9,893,1992-09-09,Sneakers,2322,Comedy,Crime,Drama,Universal Pictures,,,en,United States of America
-25000000,66023329,169,127.427,8.165,11730,1983-12-09,Scarface,111,Action,Crime,Drama,Universal Pictures,Martin Bregman Productions,,en,United States of America
-5000000,0,108,114.943,6.7,140,2024-05-07,Darkness of Man,1049574,Action,,,VMI Worldwide,Sandaled Kid Productions,,en,United States of America
-175000000,21328962,100,87.9,7.372,5177,2022-03-10,Turning Red,508947,Animation,Family,Comedy,Walt Disney Pictures,Pixar,,en,United States of America
-0,0,86,109.906,6.0,160,2024-03-22,Something in the Water,804616,Thriller,Horror,,Dan Films,StudioCanal,,en,United Kingdom
-68000000,698491347,124,106.086,6.206,8681,2010-06-23,The Twilight Saga: Eclipse,24021,Adventure,Fantasy,Drama,Summit Entertainment,Temple Hill Entertainment,Imprint Entertainment,en,United States of America
-0,0,120,82.55,0.0,0,2021-12-03,Gini Mal Pokuru,1050922,Crime,Thriller,,,,,en,Sri Lanka
-45000000,124914842,95,114.825,5.7,1552,2003-07-02,"Legally Blonde 2: Red, White & Blonde",10327,Comedy,Romance,,Metro-Goldwyn-Mayer,Marc Platt Productions,Type A Films,en,United States of America
-0,105046,98,172.11,6.2,99,2024-02-09,Handling the Undead,1020896,Horror,Drama,Mystery,Einar Film,Filmiki Etairia,Zentropa International Sweden,no,Greece
-180000000,758539785,97,209.751,7.095,13019,2014-05-28,Maleficent,102651,Fantasy,Adventure,Action,Walt Disney Pictures,Roth Films,,en,United States of America
-0,0,82,99.013,6.6,21,2024-09-20,Beezel,1291594,Horror,Thriller,,Social House Films,,,en,United States of America
-0,0,49,87.983,6.7,9,2024-03-12,Kalikot,1241748,Drama,,,Vivamax,,,tl,Philippines
-139000000,821708551,121,86.08,7.3,18938,2002-05-01,Spider-Man,557,Action,Science Fiction,,Marvel Enterprises,Laura Ziskin Productions,Columbia Pictures,en,United States of America
-200000000,156922344,206,74.478,7.456,3216,2023-10-18,Killers of the Flower Moon,466420,Crime,History,Drama,Apple Studios,Imperative Entertainment,Sikelia Productions,en,United States of America
-60000000,5000,107,101.624,7.066,2112,2024-03-07,Damsel,763215,Fantasy,Action,Adventure,PCMA Productions,Roth-Kirschenbaum Films,Palma Pictures,en,Spain
-0,0,107,87.926,6.4,39,2023-01-20,Out of Exile,729165,Thriller,Drama,Action,Through Films,SafeHouse Films,,en,United States of America
-10000000,87825916,128,67.988,7.292,7570,2018-06-07,Hereditary,493922,Horror,Mystery,Thriller,PalmStar Media,,,en,United States of America
-30000000,394436586,81,115.515,7.971,18276,1995-10-30,Toy Story,862,Animation,Adventure,Family,Pixar,,,en,United States of America
-60000000,286801374,189,80.515,8.506,17330,1999-12-10,The Green Mile,497,Fantasy,Drama,Crime,Castle Rock Entertainment,Darkwoods Productions,,en,United States of America
-37000000,165335153,115,65.472,7.0,4889,2001-08-03,The Princess Diaries,9880,Comedy,Family,Romance,Bottom of the Ninth Productions,Walt Disney Pictures,BrownHouse Productions,en,United States of America
-30000000,136700000,113,97.492,7.637,2639,2000-09-29,Remember the Titans,10637,Drama,,,Jerry Bruckheimer Films,Run It Up Productions Inc.,Technical Black,en,United States of America
-18000000,75634409,76,283.631,7.8,9391,1993-10-09,The Nightmare Before Christmas,9479,Fantasy,Animation,Family,Touchstone Pictures,Skellington Productions,,en,United States of America
-0,0,84,495.671,8.9,117,2024-08-30,Flow,823219,Animation,Fantasy,Adventure,Dream Well Studio,Sacrebleu Productions,Take Five,xx,Belgium
-0,0,97,77.892,4.2,60,2015-11-01,A Delicious Flight,390845,Romance,,,,,,ko,South Korea
-2150000,0,97,147.58,6.2,12,2023-08-25,Canceled,1070535,Mystery,Horror,Thriller,Nordisk Film Sweden,Scandinavian Content Group,Lumiverse,sv,Sweden
-125000000,801693929,123,70.398,6.9,8555,2019-12-04,Jumanji: The Next Level,512200,Adventure,Comedy,Fantasy,Columbia Pictures,Seven Bucks Productions,Matt Tolmach Productions,en,United States of America
-15000000,98267558,107,81.548,7.533,7990,1987-06-12,Predator,106,Science Fiction,Action,Adventure,20th Century Fox,Lawrence Gordon Productions,Silver Pictures,en,United States of America
-310000000,0,148,185.627,0.0,0,2024-11-13,Gladiator II,558449,Action,Adventure,,Paramount Pictures,Red Wagon Entertainment,Parkes+MacDonald Image Nation,en,United States of America
-38000000,5410749,93,87.531,4.8,311,2007-12-17,Virgin Territory,14324,Adventure,Action,Comedy,Zephyr Films,Carthago Films,The De Laurentiis Company,en,Luxembourg
-0,0,105,75.668,7.782,1683,2022-08-05,Luck,585511,Animation,Adventure,Comedy,Skydance Animation,Skydance Animation East,Skydance Animation,en,Spain
-67000000,260894737,99,313.554,6.8,2000,2024-06-26,A Quiet Place: Day One,762441,Horror,Science Fiction,Thriller,Paramount Pictures,Platinum Dunes,Sunday Night Productions,en,United States of America
-0,0,107,206.084,6.439,531,2024-08-13,Jackpot!,1094138,Comedy,Science Fiction,Action,Roth-Kirschenbaum Films,Feigco Entertainment,Amazon MGM Studios,en,United States of America
-36000000,33500000,98,157.588,7.2,4394,1996-08-02,Matilda,10830,Comedy,Family,Fantasy,Jersey Films,TriStar Pictures,,en,United States of America
-165000000,1001978080,147,110.635,6.7,6025,2022-06-01,Jurassic World Dominion,507086,Adventure,Action,Science Fiction,Amblin Entertainment,Universal Pictures,,en,United States of America
-125000000,632302312,117,127.867,7.13,3424,2023-12-06,Wonka,787699,Comedy,Family,Fantasy,Warner Bros. Pictures,Village Roadshow Pictures,The Roald Dahl Story Company,en,United Kingdom
-0,0,68,79.782,5.8,12,2024-04-28,TMZ Presents: The Downfall of Diddy,1284157,Documentary,Crime,,TMZ,EHM Productions,Harvey Levin Productions,en,United States of America
-0,0,77,113.248,4.8,12,2023-10-13,Freddy's Fridays,1140168,Horror,,,ITN Distribution,Jagged Edge Productions,,en,United Kingdom
-0,0,104,100.481,7.391,23,2018-09-29,Natsume's Book of Friends: Ephemeral Bond,507411,Animation,Fantasy,Drama,Shuka,Aniplex,NAS,ja,Japan
-0,0,96,69.607,5.373,59,2024-07-05,Boneyard,1114738,Action,Thriller,,Avail Entertainment,One Dollar Studios,The Film Post,en,United States of America
-165000000,220597098,158,66.918,6.4,2435,2023-11-22,Napoleon,753342,History,War,Romance,Apple Studios,Scott Free Productions,,en,United States of America
-200000000,496000000,102,128.936,7.6,4401,2023-06-14,Elemental,976573,Animation,Comedy,Family,Walt Disney Pictures,Pixar,,en,United States of America
-110000000,186240904,104,347.583,7.279,955,2024-05-08,IF,639720,Comedy,Fantasy,Family,Paramount Pictures,Sunday Night Productions,Maximum Effort,en,United States of America
-0,0,117,75.763,8.0,16,2023-07-24,Burga,1031516,Horror,,,,,,es,Spain
-0,0,95,82.207,7.5,30,2024-09-06,Killer Babes,1227624,Comedy,Crime,Thriller,Corazón Filmes,SDB Films,Globalgate Entertainment,es,Mexico
-0,11098,102,99.228,6.2,354,2024-08-02,The Instigators,1059064,Crime,Comedy,Action,Artists Equity,The Walsh Company,Apple Studios,en,United States of America
-3500000,28200000,91,119.424,7.157,1785,1995-04-26,Friday,10634,Comedy,,,New Line Cinema,Priority Films,Ice Cube/Pat Charbonnet Productions,en,United States of America
-0,0,109,66.776,6.411,28,2024-09-05,Technoboys,1250786,Comedy,Music,,Cine Vaquero,Panorama Global,Bengala,es,Mexico
-175000000,880166924,133,90.013,7.3,21634,2017-07-05,Spider-Man: Homecoming,315635,Action,Adventure,Science Fiction,Marvel Studios,Pascal Pictures,LStar Capital,en,United States of America
+id,title,original_language,release_date,budget,revenue,runtime,popularity,vote_average,vote_count,genres_0_name,genres_1_name,genres_2_name,production_companies_0_name,production_companies_1_name,production_companies_2_name,production_countries_0_name,profit,roi
+126319,Ernest & Celestine,fr,2012-12-12,12516654,8109160.0,79.0,23.134,7.8,596.0,Animation,Comedy,Drama,Les Armateurs,Maybe Movies,StudioCanal,Belgium,-4407494.0,-0.35213036966588673
+15196,Clue,en,1985-12-13,15000000.0,14643997.0,94.0,25.081,7.2,1690.0,Comedy,Thriller,Crime,Debra Hill Productions,Paramount Pictures,PolyGram Filmed Entertainment,United States of America,-356003.0,-0.023733533333333334
+6947,The Village,en,2004-07-30,60000000,256700000.0,108.0,46.362,6.5,4136.0,Drama,Mystery,Thriller,Touchstone Pictures,Blinding Edge Pictures,Scott Rudin Productions,United States of America,196700000.0,3.2783333333333333
+819,Sleepers,en,1996-10-18,44000000,165600000.0,147.0,34.91,7.602,3477.0,Crime,Drama,Thriller,Propaganda Films,Baltimore Pictures,Warner Bros. Pictures,United States of America,121600000.0,2.7636363636363637
+506464,The Awakener,pt,2018-11-01,3500000.0,2000000.0,108.0,25.304,6.4,133.0,Thriller,Action,Crime,Downtown Filmes,Paris Entretenimento,Universo Guará,Brazil,-1500000.0,-0.42857142857142855
+138103,The Expendables 3,en,2014-08-07,95000000,214657577.0,126.0,51.854,6.2,4933.0,Action,Adventure,Thriller,Davis Films,Nu Image,Ex3 Productions,Bulgaria,119657577.0,1.2595534421052632
+7220,The Punisher,en,2004-04-15,33000000,54700105.0,124.0,40.135,6.3,2791.0,Action,Crime,Drama,Lions Gate Films,VIP Medienfonds 3,Valhalla Motion Pictures,Germany,21700105.0,0.6575789393939394
+243940,The Lazarus Effect,en,2015-01-29,3300000,64110728.0,83.0,24.086,5.3,1397.0,Horror,Science Fiction,Thriller,Lionsgate,Blumhouse Productions,Chapter One Films,United States of America,60810728.0,18.427493333333334
+145247,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,sv,2013-12-25,9250000,51200000.0,115.0,22.939,6.788,917.0,Adventure,Comedy,Drama,Nordsvensk Filmunderhållning,FLX,Nice Drama,Sweden,41950000.0,4.535135135135135
+36599,Prom Night,en,1980-07-18,1500000,14796236.0,93.0,21.987,5.711,422.0,Horror,Mystery,Thriller,Simcom Limited,Guardian Trust Company,Prom Night Productions,Canada,13296236.0,8.864157333333333
+9539,Martyrs,fr,2008-06-12,6500000,1100000.0,99.0,43.465,7.3,2665.0,Horror,Drama,Thriller,Wild Bunch,TCB Films,Eskwad,Canada,-5400000.0,-0.8307692307692308
+7516,Smokin' Aces,en,2006-12-09,17000000,57103895.0,109.0,21.371,6.5,1621.0,Action,Comedy,Crime,Universal Pictures,Working Title Films,StudioCanal,France,40103895.0,2.3590526470588236
+9663,Starman,en,1984-12-13,22000000.0,28744356.0,115.0,28.791,6.9,846.0,Science Fiction,Romance,Drama,Columbia Pictures,Michael Douglas-Jarry J. Franco Productions,Delphi II Productions,United States of America,6744356.0,0.30656163636363637
+760926,Gold,en,2022-01-13,6500000.0,176048.0,97.0,21.257,6.18,572.0,Action,Adventure,Thriller,Deeper Water,Rogue Star Productions,Screen Australia,Australia,-6323952.0,-0.9729156923076923
+9360,Anaconda,en,1997-04-11,45000000,136900000.0,89.0,53.09,5.205,2457.0,Adventure,Horror,Thriller,St. Tropez Films,Cinema Line Film Corporation,Middle Fork Productions,Brazil,91900000.0,2.042222222222222
+10590,We Were Soldiers,en,2002-03-01,75000000.0,114660784.0,138.0,34.55,7.1,2026.0,Action,History,War,Wheelhouse Entertainment,Icon Entertainment International,Motion Picture Production GmbH & Co. Erste KG,Germany,39660784.0,0.5288104533333333
+862965,Emily the Criminal,en,2022-08-12,2000000.0,2157673.0,97.0,27.805,6.7,806.0,Crime,Drama,Thriller,Low Spark Films,Evil Hag Productions,Fear Knot Productions,United States of America,157673.0,0.0788365
+308,Broken Flowers,en,2005-07-31,10000000.0,46720491.0,106.0,27.58,6.9,1310.0,Comedy,Drama,Mystery,Focus Features,Bac Films,Five Roses,United States of America,36720491.0,3.6720491
+339103,Gotti,en,2018-06-14,10000000.0,4343227.0,106.0,28.034,5.3,600.0,Crime,Drama,History,Highland Film Group,Michael Fiore Films,EFO Films,United States of America,-5656773.0,-0.5656773
+446807,The Girl in the Spider's Web,en,2018-10-25,43000000.0,35164920.0,115.0,31.278,6.1,1337.0,Action,Crime,Thriller,Columbia Pictures,Metro-Goldwyn-Mayer,Regency Enterprises,Germany,-7835080.0,-0.18221116279069768
+489999,Searching,en,2018-08-24,1000000,75462037.0,102.0,29.084,7.58,3804.0,Drama,Mystery,Thriller,Stage 6 Films,Screen Gems,Bazelevs Production,Russia,74462037.0,74.462037
+12890,Smart People,en,2008-04-11,7000000,10569964.0,95.0,21.757,5.9,256.0,Comedy,Drama,Romance,GEM Global Entertainment Magyar,Miramax,Sherazade Film Development,United States of America,3569964.0,0.5099948571428572
+9042,The Cave,en,2005-08-26,30000000,33296457.0,97.0,22.382,5.4,902.0,Action,Adventure,Horror,City Productions,Cineblue Internationale Filmproduktionsgesellschaft,Lakeshore Entertainment,Germany,3296457.0,0.1098819
+1250,Ghost Rider,en,2007-01-15,110000000,228738393.0,114.0,70.84,5.575,5868.0,Thriller,Action,Fantasy,Crystal Sky Pictures,Relativity Media,Columbia Pictures,United States of America,118738393.0,1.0794399363636364
+377264,Morgan,en,2016-09-01,8000000,8810591.0,92.0,23.482,5.8,1463.0,Horror,Science Fiction,Thriller,TSG Entertainment,20th Century Fox,Burk A Project,United Kingdom,810591.0,0.101323875
+12144,The Land Before Time,en,1988-11-18,12500000.0,84460846.0,69.0,35.059,7.1,2505.0,Family,Animation,Adventure,Sullivan Bluth Studios,Amblin Entertainment,Lucasfilm Ltd.,Ireland,71960846.0,5.75686768
+77948,The Cold Light of Day,en,2012-04-04,20000000,16863583.0,93.0,21.122,5.4,890.0,Action,Thriller,Mystery,Film Rites,Galavis Film,Picture Machine,Spain,-3136417.0,-0.15682085
+81796,Lockout,en,2012-04-12,20000000,32948113.0,95.0,41.209,5.9,1803.0,Action,Thriller,Science Fiction,EuropaCorp,Canal+,Ciné+,France,12948113.0,0.64740565
+2274,The Seeker: The Dark Is Rising,en,2007-10-05,45000000,31852619.0,94.0,21.965,5.5,409.0,Adventure,Drama,Fantasy,Marc Platt Productions,Walden Media,20th Century Fox,United States of America,-13147381.0,-0.2921640222222222
+4564,Sex and the City,en,2008-05-12,65000000,418800000.0,146.0,45.444,6.579,2101.0,Comedy,Drama,Romance,Darren Star Productions,New Line Cinema,HBO,United States of America,353800000.0,5.443076923076923
+787699,Wonka,en,2023-12-06,125000000,632302312.0,117.0,135.834,7.129,3427.0,Comedy,Family,Fantasy,Warner Bros. Pictures,Village Roadshow Pictures,The Roald Dahl Story Company,United Kingdom,507302312.0,4.058418496
+39164,House of the Long Shadows,en,1983-06-17,7500000,0.0,100.0,20.895,6.3,97.0,Horror,Comedy,Mystery,London-Cannon Films,The Cannon Group,Golan-Globus Productions,United Kingdom,-7500000.0,-1.0
+27576,Salt,en,2010-07-21,110000000,293329073.0,100.0,77.497,6.417,5410.0,Action,Mystery,Thriller,Wintergreen Productions,Columbia Pictures,Relativity Media,United States of America,183329073.0,1.6666279363636363
+555604,Guillermo del Toro's Pinocchio,en,2022-11-09,35000000,0.0,117.0,38.83,8.091,2878.0,Animation,Fantasy,Drama,The Jim Henson Company,ShadowMachine,Double Dare You,United States of America,-35000000.0,-1.0
+14392,The Warlords,zh,2007-12-12,40000000,0.0,126.0,22.9,6.763,320.0,Action,Drama,History,China Film Group Corporation,Applause Pictures,Media Asia Films,China,-40000000.0,-1.0
+54318,The Water Horse,en,2007-12-25,40000000.0,103967384.0,112.0,33.296,6.525,1038.0,Family,Adventure,Fantasy,Revolution Studios,Walden Media,Beacon Pictures,United States of America,63967384.0,1.5991846
+49010,Hobo with a Shotgun,en,2011-05-06,3000000,748453.0,86.0,21.892,5.9,611.0,Crime,Action,Thriller,Rhombus Media,Whizbang Films,Yer Dead,Canada,-2251547.0,-0.7505156666666667
+11424,High Society,en,1956-07-17,2800000.0,8200000.0,107.0,35.249,6.9,221.0,Music,Comedy,Romance,Sol C. Siegel Productions,Bing Crosby Productions,Metro-Goldwyn-Mayer,United States of America,5400000.0,1.9285714285714286
+329440,The Forest,en,2016-01-07,10000000,37608299.0,95.0,22.565,5.2,1719.0,Horror,Thriller,Mystery,Lava Bear,AI Film,Phantom Four,United States of America,27608299.0,2.7608299
+97020,RoboCop,en,2014-01-30,120000000,242688965.0,118.0,60.489,5.873,5437.0,Science Fiction,Action,Crime,Metro-Goldwyn-Mayer,Columbia Pictures,Strike Entertainment,United States of America,122688965.0,1.0224080416666668
+2924,Backdraft,en,1991-05-24,75000000,152368585.0,137.0,37.577,6.7,1397.0,Drama,Thriller,Action,Trilogy Entertainment Group,Imagine Entertainment,Universal Pictures,United States of America,77368585.0,1.0315811333333333
+334527,Criminal Activities,en,2015-11-20,7000000,0.0,94.0,24.094,5.9,296.0,Thriller,Crime,Drama,NeeNee Productions,Capacity Pictures,May Day Movies,United States of America,-7000000.0,-1.0
+400650,Mary Poppins Returns,en,2018-12-13,130000000.0,348807090.0,131.0,32.157,6.5,3279.0,Fantasy,Family,Comedy,Walt Disney Pictures,Marc Platt Productions,Lucamar Productions,United States of America,218807090.0,1.6831314615384616
+335988,Transformers: The Last Knight,en,2017-06-16,217000000,605425157.0,154.0,89.708,6.059,6134.0,Action,Adventure,Science Fiction,Paramount Pictures,di Bonaventura Pictures,Ian Bryce Productions,United States of America,388425157.0,1.7899776820276498
+1367563,FEAR,en,2024-10-25,50,22.0,11.0,14.348,0.0,0.0,Thriller,Horror,Mystery,Shit-Stainers,Fruck Images,Domain Place Productions,Australia,-28.0,-0.56
+800939,Ticket to Paradise,en,2022-09-08,20000000.0,168800000.0,104.0,34.354,6.5,1183.0,Drama,Comedy,Romance,Smoke House Pictures,Red Om Films,Working Title Films,Australia,148800000.0,7.44
+514921,The Aeronauts,en,2019-11-04,40000000.0,3485251.0,100.0,25.451,6.8,1083.0,Adventure,Drama,Romance,Amazon Studios,Mandeville Films,FilmNation Entertainment,United Kingdom,-36514749.0,-0.912868725
+8487,Wild Wild West,en,1999-06-30,170000000.0,222104681.0,106.0,32.515,5.3,3274.0,Action,Adventure,Comedy,Warner Bros. Pictures,Peters Entertainment,Sonnenfeld/Josephson Worldwide Entertainment,United States of America,52104681.0,0.30649812352941175
+4858,The Invasion,en,2007-08-17,80000000.0,40170558.0,99.0,19.265,6.0,1493.0,Horror,Mystery,Science Fiction,Village Roadshow Pictures,Silver Pictures,Vertigo Entertainment,United States of America,-39829442.0,-0.497868025
+21032,Balto,en,1995-12-22,31000000.0,11348324.0,78.0,25.951,7.302,2015.0,Family,Animation,Adventure,Amblin Entertainment,Amblimation,Universal Pictures,United States of America,-19651676.0,-0.6339250322580645
+9880,The Princess Diaries,en,2001-08-03,37000000,165335153.0,115.0,72.237,7.0,4891.0,Comedy,Family,Romance,Bottom of the Ninth Productions,Walt Disney Pictures,BrownHouse Productions,United States of America,128335153.0,3.468517648648649
+3989,Team America: World Police,en,2004-10-10,32000000,50826898.0,97.0,18.149,6.707,1825.0,Adventure,Action,Comedy,Paramount Pictures,Scott Rudin Productions,Parker-Stone Productions,United States of America,18826898.0,0.5883405625
+498402,Aline,fr,2020-11-19,25900000,11131254.0,125.0,22.231,6.696,352.0,Music,Comedy,Drama,Caramel Films,Rectangle Productions,Gaumont,Belgium,-14768746.0,-0.5702218532818533
+122917,The Hobbit: The Battle of the Five Armies,en,2014-12-10,250000000,956019788.0,144.0,168.68,7.323,14172.0,Action,Adventure,Fantasy,Warner Bros. Pictures,New Line Cinema,Metro-Goldwyn-Mayer,New Zealand,706019788.0,2.824079152
+1040892,Slotherhouse,en,2023-08-30,350000,123000.0,93.0,21.143,4.4,89.0,Horror,Comedy,Thriller,Renegade Studios Chicago,Talking Wolf Productions,Buffalo Speedway Film Company,United States of America,-227000.0,-0.6485714285714286
+893723,PAW Patrol: The Mighty Movie,en,2023-09-21,30000000,202231360.0,92.0,102.368,7.063,441.0,Animation,Family,Action,Nickelodeon Movies,Spin Master,Paramount Pictures,Canada,172231360.0,5.741045333333333
+762,Monty Python and the Holy Grail,en,1975-03-14,400000.0,5028948.0,91.0,33.031,7.802,5738.0,Adventure,Comedy,Fantasy,Python (Monty) Pictures Limited,Michael White Productions,National Film Trustee Company,United Kingdom,4628948.0,11.57237
+331482,Little Women,en,2019-12-25,40000000,216600000.0,135.0,56.26,7.9,6208.0,Drama,Romance,History,Columbia Pictures,Regency Enterprises,Pascal Pictures,United States of America,176600000.0,4.415
+454527,Benedetta,fr,2021-07-09,24350000.0,2652725.0,131.0,22.726,6.626,977.0,History,Drama,Romance,SBS Productions,Topkapi Films,Pathé,Belgium,-21697275.0,-0.891058521560575
+263115,Logan,en,2017-02-28,97000000,619021436.0,137.0,120.049,7.823,19150.0,Action,Drama,Science Fiction,Hutch Parker Entertainment,The Donners' Company,Genre Films,United States of America,522021436.0,5.381664288659794
+12437,Underworld: Rise of the Lycans,en,2009-01-22,35000000,92158961.0,92.0,53.697,6.53,3589.0,Fantasy,Action,Thriller,Screen Gems,Lakeshore Entertainment,Sketch Films,United States of America,57158961.0,1.6331131714285714
+26428,Agora,en,2009-05-17,70000000.0,39457342.0,127.0,24.163,6.976,1403.0,Adventure,Drama,History,Himenóptero,Mod Producciones,Telecinco Cinema,Bulgaria,-30542658.0,-0.4363236857142857
+6977,No Country for Old Men,en,2007-06-13,25000000,171627166.0,122.0,59.051,7.9,11899.0,Crime,Drama,Thriller,Miramax,Paramount Vantage,Scott Rudin Productions,United States of America,146627166.0,5.86508664
+24935,Return of the Living Dead: Necropolis,en,2005-10-15,6000000.0,0.0,88.0,16.319,5.2,235.0,Horror,Comedy,Action,Castel Film,Denholm Trading Inc.,Aurora Entertainment,Romania,-6000000.0,-1.0
+398181,You Were Never Really Here,en,2017-11-08,17000000.0,9400000.0,89.0,31.725,6.559,2745.0,Crime,Drama,Thriller,Why Not Productions,Film4 Productions,BFI,France,-7600000.0,-0.4470588235294118
+68727,Trance,en,2013-03-27,20000000.0,24300000.0,101.0,25.917,6.6,2155.0,Thriller,Crime,Drama,Pathé,Decibel Films,Film4 Productions,France,4300000.0,0.215
+20533,Jonah Hex,en,2010-06-18,47000000,10539000.0,82.0,22.386,4.9,1412.0,Action,Western,Drama,Warner Bros. Pictures,Legendary Pictures,Weed Road Pictures,United States of America,-36461000.0,-0.7757659574468085
+307663,Vice,en,2015-01-16,10000000.0,0.0,96.0,28.343,4.4,540.0,Thriller,Science Fiction,Action,Grindstone Entertainment Group,EFO Films,K5 International,United States of America,-10000000.0,-1.0
+8741,The Thin Red Line,en,1998-12-23,52000000.0,98126565.0,171.0,33.887,7.5,2962.0,Drama,History,War,Fox 2000 Pictures,Phoenix Pictures,Pioneer Films,United States of America,46126565.0,0.8870493269230769
+590706,Jiu Jitsu,en,2020-11-20,23000000.0,99924.0,102.0,34.655,4.8,602.0,Action,Science Fiction,Fantasy,Acme Rocket Fuel,Green Olive Films,Double Tree Entertainment,Cyprus,-22900076.0,-0.9956554782608695
+604,The Matrix Reloaded,en,2003-05-15,150000000,738599701.0,138.0,67.109,7.054,10881.0,Adventure,Action,Thriller,Village Roadshow Pictures,Silver Pictures,NPV Entertainment,United States of America,588599701.0,3.923998006666667
+9833,The Phantom of the Opera,en,2004-12-08,70000000,154674241.0,141.0,40.565,7.252,1603.0,Thriller,Drama,Romance,Warner Bros. Pictures,Odyssey Entertainment,Scion Films,United Kingdom,84674241.0,1.2096320142857142
+508935,The Eight Hundred,zh,2020-08-14,80000000,461421559.0,147.0,23.216,6.9,261.0,War,History,Drama,Beijing Diqi Yinxiang Entertainment,Huayi Brothers Pictures,Beijing Enlight Pictures,China,381421559.0,4.7677694875
+276601,The Secret Sex Life of a Single Mom,en,2014-05-31,90.0,0.0,85.0,25.945,4.9,22.0,Drama,Mystery,Romance,Thrill Films,NB Thrilling Films 4,Reel One Entertainment,Canada,-90.0,-1.0
+42684,Skyline,en,2010-11-11,10500000,66984887.0,92.0,21.791,5.0,1600.0,Science Fiction,Action,Thriller,RAT Entertainment,Rogue Pictures,Hydraulx,United States of America,56484887.0,5.379513047619048
+32985,Solomon Kane,en,2009-09-16,45000000.0,19700000.0,104.0,28.731,6.0,1370.0,Adventure,Fantasy,Action,Davis Films,Czech Anglo Pictures,Wandering Star Pictures,Czech Republic,-25300000.0,-0.5622222222222222
+9425,Soldier,en,1998-10-23,75000000.0,14594226.0,99.0,28.666,6.4,830.0,Science Fiction,Action,Drama,Impact Pictures,Jerry Weintraub Productions,Morgan Creek Entertainment,United States of America,-60405774.0,-0.80541032
+77016,End of Watch,en,2012-09-20,7000000,55078146.0,109.0,39.176,7.3,3179.0,Crime,Drama,Thriller,5150 Action,EFO Films,Exclusive Media,United States of America,48078146.0,6.868306571428572
+393,Kill Bill: Vol. 2,en,2004-04-16,30000000,152159461.0,136.0,79.724,7.88,13775.0,Action,Crime,Thriller,Super Cool ManChu,Miramax,A Band Apart,United States of America,122159461.0,4.071982033333334
+9495,The Crow,en,1994-05-11,23000000,93722164.0,102.0,106.119,7.5,4024.0,Fantasy,Action,Thriller,Entertainment Media Investment Corporation,Jeff Most Productions,Pressman Film,United Kingdom,70722164.0,3.074876695652174
+385687,Fast X,en,2023-05-17,340000000,704709660.0,142.0,267.47,7.1,5524.0,Action,Crime,Thriller,Universal Pictures,Original Film,One Race,United States of America,364709660.0,1.0726754705882353
+10357,Volcano,en,1997-04-25,90000000.0,122823468.0,104.0,29.897,5.923,1503.0,Science Fiction,Action,Drama,20th Century Fox,Fox 2000 Pictures,Shuler Donner / Donner & Moritz Original Productions,United States of America,32823468.0,0.3647052
+98357,Broken City,en,2013-01-18,56000000,34737199.0,109.0,33.181,5.9,1447.0,Thriller,Crime,Drama,1984 Private Defense Contractors,EFO Films,Inferno International,United States of America,-21262801.0,-0.379692875
+11013,Secretary,en,2002-09-20,4000000,9300000.0,107.0,56.92,6.8,1601.0,Comedy,Drama,Romance,Slough Pond,double A Films,TwoPoundBag Productions,United States of America,5300000.0,1.325
+18032,The Secret of Moonacre,en,2009-02-06,32000000,7162618.0,103.0,22.176,6.5,441.0,Adventure,Fantasy,Romance,Forgan-Smith Entertainment,Eurofilm Stúdió,South Pacific Pictures,Australia,-24837382.0,-0.7761681875
+12211,Highlander: Endgame,en,2000-09-01,25000000,15800000.0,87.0,21.922,4.815,398.0,Action,Adventure,Fantasy,Davis-Panzer Productions,Dimension Films,Highlander Productions Limited,United Kingdom,-9200000.0,-0.368
+441531,Shock Wave,cn,2017-04-20,23000000,0.0,119.0,18.036,6.7,175.0,Action,Crime,Adventure,Universe Entertainment,Bona Film Group,Infinitus Entertainment,China,-23000000.0,-1.0
+587807,Tom & Jerry,en,2021-02-10,50000000,136536687.0,101.0,61.23,6.8,2427.0,Comedy,Family,Animation,Warner Bros. Pictures Animation,Turner Entertainment,The Story Company,United States of America,86536687.0,1.73073374
+9529,Candyman,en,1992-10-16,6000000,25792310.0,100.0,48.931,6.6,1583.0,Drama,Horror,Thriller,Propaganda Films,PolyGram Filmed Entertainment,Candyman Films,United States of America,19792310.0,3.2987183333333334
+715385,No Dogs or Italians Allowed,fr,2023-01-25,5.0,1395922.0,70.0,27.74,7.5,116.0,Animation,Drama,Family,Les Films du Tambour de soie,Vivement lundi !,Foliascope,Belgium,1395917.0,279183.4
+80271,LOL,en,2012-02-10,11000000,10500000.0,97.0,23.874,6.1,2657.0,Drama,Comedy,Romance,PIC Agency,Double Feature Films,Lol Productions,United States of America,-500000.0,-0.045454545454545456
+2114,Final Fantasy: The Spirits Within,en,2001-07-02,137000000.0,85131830.0,106.0,32.844,6.194,1450.0,Adventure,Action,Fantasy,Chris Lee Productions,Square Pictures,Square USA,Japan,-51868170.0,-0.3785997810218978
+8871,How the Grinch Stole Christmas,en,2000-11-17,123000000,345800000.0,104.0,77.49,6.759,7332.0,Family,Comedy,Fantasy,Universal Pictures,Imagine Entertainment,Brian Grazer Productions,Germany,222800000.0,1.8113821138211381
+13475,Star Trek,en,2009-05-06,150000000,386839614.0,127.0,64.523,7.4,9787.0,Science Fiction,Action,Adventure,Paramount Pictures,Spyglass Entertainment,Bad Robot,United States of America,236839614.0,1.57893076
+445571,Game Night,en,2018-02-15,37000000,117501013.0,100.0,39.074,6.9,5721.0,Mystery,Comedy,Crime,New Line Cinema,Aggregate Films,Davis Entertainment,United States of America,80501013.0,2.175703054054054
+324786,Hacksaw Ridge,en,2016-10-07,40000000,175302354.0,139.0,167.555,8.197,13640.0,Drama,History,War,Summit Entertainment,Pandemonium,Cross Creek Pictures,Australia,135302354.0,3.38255885
+949,Heat,en,1995-12-15,60000000,187400000.0,170.0,90.958,7.917,7235.0,Action,Crime,Drama,Warner Bros. Pictures,Regency Enterprises,Forward Pass,United States of America,127400000.0,2.1233333333333335
+517093,Balkan Line,ru,2019-03-21,3500000,4944386.0,130.0,52.241,7.5,507.0,Drama,Action,War,Archangel Studios,Upgrade Vision,Bless Film,Russia,1444386.0,0.41268171428571426
+10996,Stuart Little 2,en,2002-07-19,120000000,170000000.0,78.0,37.276,5.764,2383.0,Family,Adventure,Animation,Columbia Pictures,Red Wagon Entertainment,Franklin/Waterman Productions,United States of America,50000000.0,0.4166666666666667
+70586,Setup,en,2011-10-17,20000000,2128186.0,85.0,22.716,4.9,405.0,Action,Crime,Drama,Grindstone Entertainment Group,Cheetah Vision,Paradox Entertainment,United States of America,-17871814.0,-0.8935907
+1979,Fantastic Four: Rise of the Silver Surfer,en,2007-06-13,130000000,301913131.0,92.0,46.957,5.608,7771.0,Science Fiction,Adventure,Action,1492 Pictures,Bernd Eichinger Productions,20th Century Fox,Germany,171913131.0,1.3224087
+590995,The Craft: Legacy,en,2020-10-28,18000000.0,2300000.0,94.0,29.452,6.14,791.0,Horror,Drama,Fantasy,Blumhouse Productions,Red Wagon Entertainment,Columbia Pictures,United States of America,-15700000.0,-0.8722222222222222
+74513,Special Forces,fr,2011-11-02,10000000.0,3424648.0,109.0,30.131,6.717,571.0,Action,Drama,War,Sofica Manon,Easy Company,StudioCanal,France,-6575352.0,-0.6575352
+146198,Triple 9,en,2016-02-19,20000000.0,12600000.0,115.0,27.323,6.0,2102.0,Action,Crime,Adventure,Surefire Capital,Worldview Entertainment,Sierra Pictures,United States of America,-7400000.0,-0.37
+2134,The Time Machine,en,1960-05-25,750000,5902.0,103.0,22.527,7.3,813.0,Thriller,Adventure,Fantasy,Galaxy Films Inc.,George Pal Productions,Metro-Goldwyn-Mayer,United States of America,-744098.0,-0.9921306666666667
+848538,Argylle,en,2024-01-31,200000000,96175599.0,139.0,76.335,6.1,1265.0,Action,Adventure,Comedy,Marv,Apple Studios,Cloudy Productions,United Kingdom,-103824401.0,-0.519122005
+4959,The International,en,2009-02-03,50000000.0,60161391.0,118.0,31.29,6.2,1232.0,Action,Thriller,Drama,Studio Babelsberg,Atlas Entertainment,Mosaic Media Group,Germany,10161391.0,0.20322782
+253414,Rock the Kasbah,en,2015-10-22,15000000,3020664.0,100.0,22.623,5.4,330.0,Comedy,Music,War,Shangri-La Entertainment,QED International,Dune Films,Morocco,-11979336.0,-0.7986224
+587792,Palm Springs,en,2020-07-10,5000000,164000.0,90.0,48.989,7.331,3055.0,Comedy,Romance,Science Fiction,Limelight,The Lonely Island,Sun Entertainment Culture Los Angeles,United States of America,-4836000.0,-0.9672
+23437,A Nightmare on Elm Street,en,2010-04-30,35000000,115664037.0,95.0,71.53,5.5,2660.0,Horror,Mystery,Thriller,Platinum Dunes,New Line Cinema,Warner Bros. Pictures,United States of America,80664037.0,2.3046867714285715
+51052,Arthur Christmas,en,2011-11-10,10000000,151300000.0,97.0,39.862,6.8,1444.0,Drama,Animation,Family,Columbia Pictures,Sony Pictures Animation,Aardman,United Kingdom,141300000.0,14.13
+1499,Teenage Mutant Ninja Turtles III,en,1993-03-17,21000000.0,42273609.0,96.0,31.985,5.4,810.0,Action,Adventure,Comedy,Clearwater Holdings Limited,New Line Cinema,Mirage Studios,Hong Kong,21273609.0,1.013029
+281957,The Revenant,en,2015-12-25,135000000,532950503.0,157.0,51.587,7.533,17977.0,Western,Drama,Adventure,Monarchy Enterprises S.a.r.l.,Regency Enterprises,Appian Way,Canada,397950503.0,2.9477815037037036
+12797,Ghost Town,en,2008-09-19,20000000.0,27100000.0,102.0,32.469,6.542,948.0,Drama,Comedy,Fantasy,Spyglass Entertainment,Pariah,DreamWorks Pictures,United States of America,7100000.0,0.355
+4912,Confessions of a Dangerous Mind,en,2002-12-31,30000000,33013805.0,113.0,39.718,6.7,1117.0,Comedy,Crime,Drama,Miramax,Mad Chance,Section Eight,Germany,3013805.0,0.10046016666666667
+274857,King Arthur: Legend of the Sword,en,2017-05-10,175000000,148700000.0,126.0,52.907,6.548,5644.0,Action,Drama,Fantasy,Village Roadshow Pictures,Weed Road Pictures,Wigram Productions,United States of America,-26300000.0,-0.15028571428571427
+395,AVP: Alien vs. Predator,en,2004-08-12,70000000,177427090.0,100.0,90.633,5.921,4373.0,Adventure,Science Fiction,Action,Studio Babelsberg,Davis Entertainment,Stillking Films,Czech Republic,107427090.0,1.5346727142857144
+9829,United 93,en,2006-04-28,15000000.0,76300000.0,111.0,47.754,7.1,1458.0,Drama,History,Crime,Sidney Kimmel Entertainment,Working Title Films,StudioCanal,France,61300000.0,4.086666666666667
+47933,Independence Day: Resurgence,en,2016-06-22,165000000,389681935.0,120.0,36.017,5.3,5994.0,Action,Adventure,Science Fiction,20th Century Fox,TSG Entertainment,Centropolis Entertainment,United States of America,224681935.0,1.361708696969697
+10052,Dragonfly,en,2002-02-22,60000000.0,52322400.0,104.0,25.053,6.544,848.0,Thriller,Fantasy,Mystery,Universal Pictures,Spyglass Entertainment,Gran Via Productions,Germany,-7677600.0,-0.12796
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",en,2005-12-07,180000000,745013115.0,143.0,184.876,7.1,10544.0,Adventure,Family,Fantasy,Walt Disney Pictures,Walden Media,C.S. Lewis Company,United Kingdom,565013115.0,3.13896175
+634528,The Marksman,en,2021-01-15,23000000,23076711.0,108.0,37.021,6.843,1567.0,Action,Drama,Thriller,Sculptor Media,Zero Gravity Management,Cutting Edge Group,United States of America,76711.0,0.003335260869565217
+8676,Fool's Gold,en,2008-02-07,70000000.0,111231041.0,112.0,33.731,5.742,1450.0,Adventure,Romance,Comedy,De Line Pictures,Warner Bros. Pictures,Bernie Goldmann Productions,Australia,41231041.0,0.5890148714285715
+205584,Gods of Egypt,en,2016-02-25,140000000,150680864.0,127.0,45.467,5.7,4022.0,Action,Adventure,Fantasy,Thunder Road,Pyramania,Summit Entertainment,Australia,10680864.0,0.07629188571428572
+70074,Bullet to the Head,en,2012-11-14,55000000.0,9489829.0,92.0,31.731,5.589,1257.0,Action,Crime,Thriller,Dark Castle Entertainment,After Dark Films,IM Global,India,-45510171.0,-0.8274576545454545
+11817,Bulletproof Monk,en,2003-03-28,52000000.0,37713879.0,104.0,27.337,5.507,902.0,Action,Comedy,Fantasy,Lakeshore Entertainment,Lion Rock Productions,Image Comics,United States of America,-14286121.0,-0.27473309615384617
+586863,Les Misérables,fr,2019-11-14,2500000.0,54606372.0,104.0,34.527,7.6,1487.0,Crime,Drama,Thriller,Srab Films,Rectangle Productions,Lyly Films,France,52106372.0,20.8425488
+786892,Furiosa: A Mad Max Saga,en,2024-05-22,170000000,172775791.0,149.0,277.631,7.543,3308.0,Action,Adventure,Science Fiction,Warner Bros. Pictures,Kennedy Miller Mitchell,Domain Entertainment,Australia,2775791.0,0.016328182352941176
+484468,The Wolf's Call,fr,2019-02-20,22400000.0,12652790.0,115.0,32.795,7.557,1955.0,Thriller,Action,Adventure,Pathé,Trésor Films,Chi-Fou-Mi Productions,France,-9747210.0,-0.43514330357142855
+2502,The Bourne Supremacy,en,2004-07-23,75000000,288500217.0,108.0,66.833,7.3,7417.0,Action,Drama,Thriller,Universal Pictures,The Kennedy/Marshall Company,Hypnotic,Germany,213500217.0,2.84666956
+487680,The Kitchen,en,2019-08-08,38000000.0,16000000.0,103.0,32.498,6.1,668.0,Action,Crime,Drama,New Line Cinema,Michael De Luca Productions,DC Vertigo,United States of America,-22000000.0,-0.5789473684210527
+889737,Joker: Folie à Deux,en,2024-10-01,195000000,192714058.0,138.0,620.198,5.777,954.0,Drama,Crime,Thriller,Warner Bros. Pictures,Joint Effort,Domain Entertainment,United States of America,-2285942.0,-0.011722779487179487
+864116,A Day to Die,en,2022-03-04,98616.0,0.0,101.0,25.998,5.8,212.0,Action,Thriller,Crime,Unknown South Productions,Hood River Entertainment,Blue Box International,United States of America,-98616.0,-1.0
+9477,King Arthur,en,2004-07-07,120000000,203600000.0,126.0,65.524,6.3,2667.0,Adventure,War,History,Jerry Bruckheimer Films,World 2000 Entertainment,Touchstone Pictures,Ireland,83600000.0,0.6966666666666667
+481084,The Addams Family,en,2019-10-10,40000000,204394183.0,86.0,64.713,6.6,2296.0,Family,Animation,Comedy,Cinesite Animation,Nitrogen Studios Canada,Bron Studios,Canada,164394183.0,4.109854575
+76649,Pompeii,en,2014-02-18,100000000.0,117831631.0,105.0,25.713,5.5,3191.0,Action,Adventure,History,Don Carmody Productions,Impact Pictures,Constantin Film,Canada,17831631.0,0.17831631
+400157,Wonder Park,en,2019-03-13,100000000.0,119559110.0,86.0,24.139,6.514,691.0,Comedy,Animation,Adventure,Nickelodeon Movies,Paramount Animation,Ilion Animation Studios,Spain,19559110.0,0.1955911
+2383,The Bear,fr,1988-10-21,25000000.0,138241022.0,94.0,29.011,7.0,470.0,Adventure,Drama,Family,Renn Productions,Price,Pathé,France,113241022.0,4.52964088
+59962,This Means War,en,2012-02-14,65000000.0,156974557.0,98.0,26.479,6.2,3337.0,Action,Comedy,Romance,Dune Entertainment,Overbrook Entertainment,Robert Simonds Productions,United States of America,91974557.0,1.4149931846153847
+205596,The Imitation Game,en,2014-11-14,14000000,233600000.0,113.0,79.263,8.0,16900.0,History,Drama,Thriller,Bristol Automotive,Black Bear Pictures,FilmNation Entertainment,United States of America,219600000.0,15.685714285714285
+30018,Mother,ko,2009-05-28,5000000.0,17112713.0,129.0,27.183,7.7,1452.0,Crime,Drama,Mystery,Barunson E&A,CJ Entertainment,Michigan Venture Capital,South Korea,12112713.0,2.4225426
+315064,Animal Crackers,en,2017-06-23,17000000.0,13285512.0,105.0,28.291,6.2,190.0,Comedy,Animation,Adventure,Blue Dream Studios,Beijing Wen Hua Dong Run Investment,China Film Group Corporation,Australia,-3714488.0,-0.21849929411764707
+670,Oldboy,ko,2003-11-21,3000000,17500000.0,120.0,46.117,8.3,8599.0,Drama,Thriller,Mystery,Show East,Egg Film,Cineclick Asia,South Korea,14500000.0,4.833333333333333
+23047,Season of the Witch,en,2011-01-07,40000000.0,91627228.0,95.0,32.05,5.5,2404.0,Adventure,Fantasy,Action,Atlas Entertainment,Relativity Media,Mandate International,United States of America,51627228.0,1.2906807
+645689,The Duke,en,2021-07-23,11000000,0.0,96.0,23.155,7.0,308.0,Comedy,Drama,History,Pathé,Ingenious Media,Neon Films,France,-11000000.0,-1.0
+8043,Breakheart Pass,en,1975-12-09,6000000,2130000.0,95.0,15.17,6.5,189.0,Thriller,Western,Mystery,United Artists,Jerry Gershwin Productions,Elliott Kastner Productions,United States of America,-3870000.0,-0.645
+102382,The Amazing Spider-Man 2,en,2014-04-16,200000000,708962323.0,141.0,127.822,6.511,13137.0,Action,Adventure,Science Fiction,Columbia Pictures,Matt Tolmach Productions,Arad Productions,United States of America,508962323.0,2.544811615
+753091,The Moon,ko,2023-08-02,20000000,92718.0,129.0,23.867,6.5,123.0,Drama,Adventure,Science Fiction,Blaad Studios,CJ ENM Studios,NaruN,South Korea,-19907282.0,-0.9953641
+399402,Hunter Killer,en,2018-10-19,40000000,31672678.0,121.0,43.158,6.9,2138.0,Action,Adventure,Thriller,Original Film,G-BASE,Millennium Media,France,-8327322.0,-0.20818305
+10328,Cocoon,en,1985-06-21,17500000,85300000.0,117.0,22.864,6.6,1262.0,Drama,Comedy,Science Fiction,SLM Production Group,Zanuck/Brown Productions,20th Century Fox,United States of America,67800000.0,3.874285714285714
+446021,Bad Times at the El Royale,en,2018-10-04,32000000,31882724.0,141.0,23.663,6.8,3515.0,Thriller,Mystery,Crime,20th Century Fox,Goddard Textiles,TSG Entertainment,United States of America,-117276.0,-0.003664875
+346648,Paddington 2,en,2017-11-09,40000000.0,227300000.0,104.0,29.453,7.458,2325.0,Adventure,Comedy,Family,StudioCanal,Heyday Films,Anton Capital Entertainment,France,187300000.0,4.6825
+27551,The Barbarians,en,1987-03-20,4000000.0,800000.0,87.0,34.829,5.5,126.0,Adventure,Fantasy,Action,The Cannon Group,Golan-Globus Productions,Cannon Italia Srl,Italy,-3200000.0,-0.8
+517302,Hatching,fi,2022-03-04,3896000.0,508000.0,91.0,33.652,6.3,412.0,Horror,Fantasy,Drama,Silva Mysterium,uMedia,Film i Väst,Belgium,-3388000.0,-0.8696098562628337
+58574,Sherlock Holmes: A Game of Shadows,en,2011-11-22,125000000,334615000.0,129.0,61.352,7.1,10231.0,Adventure,Action,Crime,Village Roadshow Pictures,Silver Pictures,Wigram Productions,United States of America,209615000.0,1.67692
+481848,The Call of the Wild,en,2020-02-19,109000000.0,111200000.0,100.0,33.985,7.558,3677.0,Adventure,Family,Drama,3 Arts Entertainment,20th Century Studios,TSG Entertainment,Canada,2200000.0,0.02018348623853211
+615656,Meg 2: The Trench,en,2023-08-02,129000000,384056482.0,116.0,103.289,6.489,3361.0,Action,Science Fiction,Horror,Apelles Entertainment,Warner Bros. Pictures,di Bonaventura Pictures,China,255056482.0,1.977182031007752
+336843,Maze Runner: The Death Cure,en,2018-01-10,62000000,288175335.0,143.0,92.212,7.1,7711.0,Science Fiction,Action,Adventure,The Gotham Group,Temple Hill Entertainment,20th Century Fox,United States of America,226175335.0,3.6479892741935482
+51608,The Man from Nowhere,ko,2010-08-04,1255000.0,43059790.0,119.0,32.082,7.7,1303.0,Action,Thriller,Crime,Opus Pictures,CJ Entertainment,United Pictures,South Korea,41804790.0,33.31058964143426
+30144,Lilly the Witch: The Dragon and the Magic Book,de,2009-02-12,10000000,0.0,89.0,20.928,5.3,86.0,Fantasy,Family,Comedy,Trixter Film,Blue Eyes Fiction,Classic Productions,Austria,-10000000.0,-1.0
+97370,Under the Skin,en,2014-03-14,13300000.0,5735963.0,108.0,33.888,6.1,3388.0,Thriller,Science Fiction,Drama,Nick Wechsler Productions,JW Films,BFI,United Kingdom,-7564037.0,-0.5687245864661654
+9620,Paycheck,en,2003-12-25,60000000.0,117248958.0,119.0,28.169,6.207,1791.0,Action,Adventure,Mystery,Paramount Pictures,Davis Entertainment,Lion Rock Productions,Canada,57248958.0,0.9541493
+112205,The Family,en,2013-09-13,30000000.0,36894225.0,111.0,33.352,6.4,2893.0,Crime,Comedy,Action,Grive Productions,EuropaCorp,Relativity Media,France,6894225.0,0.2298075
+820,JFK,en,1991-12-20,40000000,205405498.0,188.0,28.135,7.6,2079.0,Drama,Thriller,History,Warner Bros. Pictures,Regency Enterprises,Alcor Films,France,165405498.0,4.13513745
+14784,The Fall,en,2008-01-03,30000000.0,3749727.0,117.0,30.821,7.6,1284.0,Adventure,Fantasy,Drama,Googly Films,Absolute Entertainment,RadicalMedia,United States of America,-26250273.0,-0.8750091
+8247,Jumper,en,2008-02-13,85000000,222231186.0,88.0,72.981,6.2,5721.0,Action,Adventure,Science Fiction,Dune Entertainment,Hypnotic,New Regency Pictures,United States of America,137231186.0,1.6144845411764706
+1016346,MR-9: Do or Die,bn,2023-08-25,6700000,7100000.0,107.0,141.879,6.5,150.0,Action,Drama,Thriller,Jaaz Multimedia,Al Bravo Films,Avail Entertainment,Bangladesh,400000.0,0.05970149253731343
+12593,Fritz the Cat,en,1972-04-12,850000,90000000.0,78.0,20.89,6.1,320.0,Animation,Comedy,Drama,Cinemation Industries,Steve Krantz Productions,Aurica Finance Company,United States of America,89150000.0,104.88235294117646
+10206,Buffy the Vampire Slayer,en,1992-07-24,7000000.0,16624456.0,86.0,24.669,5.6,805.0,Action,Comedy,Horror,Sandollar,Kuzui Enterprises,20th Century Fox,United States of America,9624456.0,1.3749222857142858
+33689,It Takes Two,en,1995-11-17,19474589.0,19474589.0,101.0,32.428,6.5,873.0,Comedy,Family,Romance,Dualstar Productions,Orr & Cruickshank,Rysher Entertainment,United States of America,0.0,0.0
+45610,Machine Gun Preacher,en,2011-09-23,30000000.0,2527904.0,129.0,32.948,6.7,1029.0,Action,Thriller,Crime,Virgin Produced,Relativity Media,Mpower Pictures,United States of America,-27472096.0,-0.9157365333333334
+10808,Dr. Dolittle 2,en,2001-06-22,70000000,176100000.0,87.0,23.498,5.312,1648.0,Comedy,Family,Romance,Joseph M. Singer Entertainment,Davis Entertainment,20th Century Fox,United States of America,106100000.0,1.5157142857142858
+9804,Waterworld,en,1995-07-28,175000000,264218220.0,135.0,56.832,6.216,3648.0,Adventure,Action,Science Fiction,Gordon Company,Davis Entertainment,Universal Pictures,United States of America,89218220.0,0.5098184
+141052,Justice League,en,2017-11-15,300000000,661326987.0,120.0,93.275,6.083,12866.0,Action,Adventure,Science Fiction,RatPac Entertainment,Cruel & Unusual Films,Atlas Entertainment,United States of America,361326987.0,1.20442329
+10731,The Client,en,1994-07-20,45000000,117615211.0,119.0,16.996,6.682,1107.0,Drama,Thriller,Crime,Alcor Films,Regency Enterprises,Warner Bros. Pictures,United States of America,72615211.0,1.6136713555555555
+13012,Felon,en,2008-07-17,2900000,0.0,103.0,38.79,7.2,871.0,Crime,Drama,Thriller,Pantry Films,Stage 6 Films,Tooley Productions,United States of America,-2900000.0,-1.0
+1579,Apocalypto,en,2006-12-07,40000000,120654337.0,139.0,74.843,7.6,5498.0,Action,Drama,History,Icon Entertainment International,Icon Productions,Touchstone Pictures,United Kingdom,80654337.0,2.016358425
+14248,Igor,en,2008-09-19,25000000.0,30700000.0,87.0,30.137,5.9,555.0,Animation,Comedy,Family,Exodus Film Group,Sparx Animation Studios,Metro-Goldwyn-Mayer,France,5700000.0,0.228
+55301,Alvin and the Chipmunks: Chipwrecked,en,2011-12-14,75000000,342695435.0,87.0,52.425,5.7,2164.0,Comedy,Fantasy,Family,Fox 2000 Pictures,20th Century Fox,Regency Enterprises,United States of America,267695435.0,3.569272466666667
+41515,Yogi Bear,en,2010-12-17,80000000,203509374.0,80.0,35.799,5.6,864.0,Comedy,Family,Animation,Sunswept Entertainment,De Line Pictures,Rhythm and Hues,United States of America,123509374.0,1.543867175
+667717,Deep Sea,zh,2023-01-22,28700000.0,136090000.0,112.0,25.002,7.0,101.0,Animation,Adventure,Drama,October Media,Horgos Coloroom Pictures,Enlight Pictures,China,107390000.0,3.7418118466898953
+385128,F9,en,2021-05-19,200000000,726229501.0,143.0,61.208,7.078,7154.0,Action,Adventure,Crime,Original Film,One Race,Perfect Storm Entertainment,United States of America,526229501.0,2.631147505
+338762,Bloodshot,en,2020-03-05,42000000,39861118.0,110.0,56.463,6.7,4917.0,Action,Science Fiction,Adventure,Cross Creek Pictures,Mimran Schur Pictures,Original Film,Canada,-2138882.0,-0.050925761904761904
+1493,Miss Congeniality,en,2000-12-22,45000000,212000000.0,111.0,36.226,6.5,3852.0,Comedy,Crime,Action,Village Roadshow Pictures,Castle Rock Entertainment,NPV Entertainment,United States of America,167000000.0,3.7111111111111112
+823625,Blacklight,en,2022-02-10,43000000,15902207.0,104.0,55.937,6.165,1091.0,Action,Thriller,Drama,The Solution,Zero Gravity Management,Film Victoria,Australia,-27097793.0,-0.6301812325581395
+22971,Dear John,en,2010-02-04,25000000.0,114977104.0,108.0,26.027,6.847,4124.0,Drama,Romance,War,Screen Gems,Relativity Media,Temple Hill Entertainment,United States of America,89977104.0,3.59908416
+766507,Prey,en,2022-08-02,65000000,0.0,100.0,112.461,7.713,6600.0,Thriller,Action,Science Fiction,20th Century Studios,Davis Entertainment,Lawrence Gordon Productions,United States of America,-65000000.0,-1.0
+4327,Charlie's Angels,en,2000-11-02,92000000,264100000.0,98.0,48.814,5.841,4115.0,Action,Adventure,Comedy,Columbia Pictures,Tall Trees Productions,Flower Films,United States of America,172100000.0,1.8706521739130435
+43539,The Next Three Days,en,2010-11-18,30000000.0,67448651.0,133.0,34.128,7.1,2825.0,Romance,Drama,Thriller,Hwy61,Lionsgate,Fidélité Films,United States of America,37448651.0,1.2482883666666666
+75780,Jack Reacher,en,2012-12-20,60000000,218300000.0,130.0,46.937,6.63,6938.0,Crime,Drama,Thriller,Paramount Pictures,Skydance Media,TC Productions,United States of America,158300000.0,2.638333333333333
+9327,The Nutty Professor,en,1996-06-28,54000000.0,128769345.0,95.0,29.873,5.634,2869.0,Fantasy,Comedy,Romance,Universal Pictures,Imagine Entertainment,Eddie Murphy Productions,United States of America,74769345.0,1.3846175
+12589,Jimmy Neutron: Boy Genius,en,2001-12-14,25000000.0,80936232.0,83.0,30.122,6.0,904.0,Family,Action,Adventure,Nickelodeon Movies,O Entertainment,DNA Productions,United States of America,55936232.0,2.23744928
+3683,Flags of Our Fathers,en,2006-10-18,90000000,65900000.0,135.0,21.761,6.9,1816.0,War,Drama,History,DreamWorks Pictures,Amblin Entertainment,Malpaso Productions,United States of America,-24100000.0,-0.2677777777777778
+11551,Small Soldiers,en,1998-07-10,40000000,54682547.0,110.0,39.509,6.525,2104.0,Comedy,Adventure,Fantasy,DreamWorks Pictures,Universal Pictures,Amblin Entertainment,United States of America,14682547.0,0.367063675
+24438,Did You Hear About the Morgans?,en,2009-12-17,58000000.0,85280250.0,103.0,32.764,5.382,957.0,Comedy,Drama,Romance,Banter,Relativity Media,Castle Rock Entertainment,United States of America,27280250.0,0.4703491379310345
+333667,Rock Dog,en,2016-07-08,60000000,23300000.0,90.0,22.791,6.2,287.0,Animation,Adventure,Comedy,Dream Factory Group,Reel FX Creative Studios,Mandoo Pictures,China,-36700000.0,-0.6116666666666667
+8698,The League of Extraordinary Gentlemen,en,2003-07-11,78000000.0,179265204.0,110.0,28.784,5.966,3992.0,Fantasy,Action,Thriller,20th Century Fox,Mediastream III,Don Murphy Productions,Germany,101265204.0,1.298271846153846
+258489,The Legend of Tarzan,en,2016-06-29,180000000,356743061.0,109.0,76.391,5.9,6169.0,Fantasy,Action,Adventure,Village Roadshow Pictures,Dark Horse Entertainment,Beagle Pug Films,Canada,176743061.0,0.9819058944444444
+267935,The BFG,en,2016-06-01,140000000,195243411.0,117.0,59.716,6.274,3332.0,Adventure,Family,Fantasy,Walt Disney Pictures,Amblin Entertainment,Reliance Entertainment,India,55243411.0,0.39459579285714286
+653346,Kingdom of the Planet of the Apes,en,2024-05-08,160000000,397366385.0,145.0,327.361,7.1,3084.0,Science Fiction,Adventure,Action,20th Century Studios,Oddball Entertainment,Jason T. Reed Productions,United States of America,237366385.0,1.48353990625
+302156,Criminal,en,2016-04-07,31500000.0,14708696.0,113.0,31.673,6.204,1718.0,Action,Crime,Science Fiction,BenderSpink,Campbell Grobman Films,Criminal Productions,Bulgaria,-16791304.0,-0.5330572698412699
+10189,Pineapple Express,en,2008-08-06,27000000,101624843.0,111.0,60.715,6.6,3762.0,Action,Comedy,Crime,Columbia Pictures,Relativity Media,Apatow Productions,United States of America,74624843.0,2.763883074074074
+183011,Justice League: The Flashpoint Paradox,en,2013-07-30,3500000.0,0.0,75.0,32.608,7.9,1815.0,Animation,Science Fiction,Action,DC Entertainment,Warner Bros. Animation,Warner Premiere,United States of America,-3500000.0,-1.0
+17835,Threads,en,1984-09-23,420000,0.0,117.0,23.759,7.7,305.0,War,Drama,Science Fiction,Western-World Television Inc.,BBC,Nine Network Australia,Australia,-420000.0,-1.0
+255157,The Forger,en,2014-09-10,15000000.0,0.0,95.0,29.379,5.8,365.0,Thriller,Crime,Drama,The Solution,Freedom Media,Code Entertainment,United States of America,-15000000.0,-1.0
+9562,Timeline,en,2003-11-26,80000000.0,43935763.0,116.0,30.359,5.698,1051.0,Action,Adventure,Science Fiction,Paramount Pictures,Mutual Film Company,The Donners' Company,Italy,-36064237.0,-0.4508029625
+581,Dances with Wolves,en,1990-03-30,22000000,424208848.0,181.0,56.55,7.847,4184.0,Adventure,Drama,Western,Tig Productions,Majestic Films International,Allied Filmmakers,United Kingdom,402208848.0,18.282220363636362
+9607,Super Mario Bros.,en,1993-05-28,48000000.0,20915465.0,104.0,28.893,4.41,1293.0,Adventure,Fantasy,Comedy,Hollywood Pictures,Cinergi Pictures,Allied Filmmakers,United Kingdom,-27084535.0,-0.5642611458333333
+8922,Jeepers Creepers,en,2001-07-01,10000000,59217789.0,90.0,54.453,6.467,2973.0,Horror,Thriller,Mystery,United Artists,American Zoetrope,Cinerenta Medienbeteiligungs KG,Germany,49217789.0,4.9217789
+27579,The American,en,2010-08-31,20000000,67900000.0,104.0,36.383,5.95,1334.0,Crime,Drama,Thriller,Twins Financing,This is that,Focus Features,United Kingdom,47900000.0,2.395
+829410,Sick,en,2022-09-11,83.0,0.0,83.0,33.561,6.2,254.0,Horror,Mystery,Thriller,Miramax,Outerbanks Entertainment,Blumhouse Productions,United States of America,-83.0,-1.0
+1574,Chicago,en,2002-12-10,45000000.0,306776732.0,113.0,31.615,7.119,2580.0,Comedy,Crime,Drama,Miramax,Kalis Productions GmbH & Co. Zweite KG,The Producer Circle Co.,Germany,261776732.0,5.817260711111111
+241257,Regression,en,2015-10-01,20000000.0,17671101.0,106.0,31.595,5.6,1769.0,Horror,Mystery,Thriller,Mod Producciones,First Generation Films,FilmNation Entertainment,Canada,-2328899.0,-0.11644495
+9397,Evolution,en,2001-06-08,80000000,98376292.0,101.0,44.628,6.1,2202.0,Comedy,Science Fiction,Action,DreamWorks Pictures,Columbia Pictures,The Montecito Picture Company,United States of America,18376292.0,0.22970365
+202575,The House of Magic,en,2013-12-24,34000000.0,64197205.0,85.0,29.312,6.3,342.0,Family,Fantasy,Animation,nWave Pictures,StudioCanal,uMedia,Belgium,30197205.0,0.8881530882352942
+286567,Max Steel,en,2016-10-14,10000000,6272403.0,92.0,21.577,5.574,768.0,Action,Adventure,Science Fiction,Dolphin Entertainment,Ingenious Media,Mattel Playground Productions,United Kingdom,-3727597.0,-0.3727597
+1927,Hulk,en,2003-06-19,137000000,245360480.0,138.0,39.551,5.556,5730.0,Science Fiction,Adventure,Action,Marvel Enterprises,Universal Pictures,Good Machine,United States of America,108360480.0,0.7909524087591241
+256474,In the Blood,en,2014-04-04,10000000.0,0.0,108.0,30.621,5.838,349.0,Action,Crime,Thriller,20th Century Fox Home Entertainment,Anchor Bay Films,Lleju Productions,United Kingdom,-10000000.0,-1.0
+8914,Deep Blue Sea,en,1999-07-28,60000000.0,164700000.0,105.0,35.468,5.98,2394.0,Action,Horror,Science Fiction,Riche-Ludwig Productions,Village Roadshow Pictures,Groucho III Film Partnership,Australia,104700000.0,1.745
+9406,An American Werewolf in Paris,en,1997-05-29,22000000,26570463.0,98.0,42.759,6.0,669.0,Horror,Comedy,Fantasy,Hollywood Pictures,Cometstone Pictures,J&M Entertainment,France,4570463.0,0.2077483181818182
+12597,Hellraiser: Inferno,en,2000-10-31,2000000.0,0.0,100.0,24.391,5.4,458.0,Horror,Mystery,Fantasy,Miramax,Neo Art & Logic,Dimension Films,United States of America,-2000000.0,-1.0
+11127,Starship Troopers 3: Marauder,en,2008-07-19,20000000.0,0.0,105.0,28.061,4.821,516.0,Adventure,Science Fiction,Action,Sony Pictures Home Entertainment,ApolloMovie Beteiligungs,Bold Films,United States of America,-20000000.0,-1.0
+695721,The Hunger Games: The Ballad of Songbirds & Snakes,en,2023-11-15,100000000,337371917.0,157.0,95.724,7.073,2655.0,Drama,Science Fiction,Action,Lionsgate,Color Force,about:blank,Germany,237371917.0,2.37371917
+337170,American Made,en,2017-08-18,50000000,133511855.0,115.0,55.818,6.881,4466.0,Comedy,Crime,Drama,Universal Pictures,Cross Creek Pictures,Imagine Entertainment,Colombia,83511855.0,1.6702371
+840705,Blink Twice,en,2024-08-21,20000000,43555474.0,103.0,205.948,6.802,736.0,Mystery,Thriller,Horror,Metro-Goldwyn-Mayer,Free Association,This Is Important,United States of America,23555474.0,1.1777737
+906221,Magic Mike's Last Dance,en,2023-02-09,45000000,52000000.0,112.0,38.15,6.591,476.0,Comedy,Drama,Romance,Warner Bros. Pictures,Nick Wechsler Productions,Free Association,United States of America,7000000.0,0.15555555555555556
+94047,My Way,ko,2011-12-21,25500000,16653488.0,137.0,42.339,7.9,378.0,Drama,Action,History,CJ Entertainment,Directors,SK Planet,South Korea,-8846512.0,-0.34692203921568626
+59965,Abduction,en,2011-09-22,35000000.0,82087155.0,106.0,32.4,5.9,2851.0,Thriller,Action,Mystery,Vertigo Entertainment,The Gotham Group,Quick Six Entertainment,United States of America,47087155.0,1.3453472857142856
+629542,The Bad Guys,en,2022-03-17,80000000,250162278.0,100.0,67.185,7.6,2018.0,Family,Animation,Adventure,DreamWorks Animation,Scholastic Entertainment,dentsu,Japan,170162278.0,2.127028475
+137094,Jack Ryan: Shadow Recruit,en,2014-01-15,60000000,135500000.0,105.0,43.526,6.1,2825.0,Action,Drama,Thriller,di Bonaventura Pictures,Paramount Pictures,Mace Neufeld Productions,Russia,75500000.0,1.2583333333333333
+636706,Spaceman,en,2024-02-23,40000000.0,0.0,108.0,34.818,6.8,768.0,Science Fiction,Adventure,Drama,Free Association,Tango Entertainment,Sinestra,United States of America,-40000000.0,-1.0
+698128,Dual,en,2022-03-18,4500000.0,0.0,95.0,26.761,6.0,305.0,Science Fiction,Comedy,Drama,XYZ Films,IPR.VC,Resolute Films and Entertainment,Canada,-4500000.0,-1.0
+9738,Fantastic Four,en,2005-06-29,100000000,333535934.0,106.0,46.558,5.787,9237.0,Action,Fantasy,Science Fiction,Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG,1492 Pictures,Marvel Enterprises,Germany,233535934.0,2.33535934
+424783,Bumblebee,en,2018-12-15,135000000,467989645.0,113.0,51.007,6.7,6050.0,Action,Adventure,Science Fiction,Paramount Pictures,Allspark Pictures,Bay Films,China,332989645.0,2.466589962962963
+18377,200 Pounds Beauty,ko,2006-12-14,4000000.0,0.0,120.0,31.213,6.8,314.0,Drama,Comedy,Romance,KM Culture,Realies Pictures,Michigan Venture Capital,South Korea,-4000000.0,-1.0
+41154,Men in Black 3,en,2012-05-23,225000000,624000000.0,106.0,39.738,6.5,10221.0,Action,Comedy,Science Fiction,Columbia Pictures,Hemisphere Media Capital,Amblin Entertainment,United Arab Emirates,399000000.0,1.7733333333333334
+262841,Monster Trucks,en,2016-12-21,125000000,64493915.0,104.0,39.343,6.1,842.0,Action,Comedy,Science Fiction,Nickelodeon Movies,Paramount Pictures,Disruption Entertainment,United States of America,-60506085.0,-0.48404868
+567646,Extreme Job,ko,2019-01-23,8120000,124652206.0,111.0,21.933,7.1,275.0,Action,Comedy,Crime,CJ Entertainment,about Film,Haegrimm Pictures,South Korea,116532206.0,14.351256896551725
+4108,The Transporter,en,2002-10-02,21000000,43900000.0,92.0,59.871,6.71,5269.0,Action,Crime,Thriller,TF1 Films Production,EuropaCorp,Current Entertainment,United States of America,22900000.0,1.0904761904761904
+2605,Short Circuit,en,1986-05-09,10000000.0,40697761.0,98.0,30.898,6.617,1457.0,Science Fiction,Comedy,Family,TriStar Pictures,PSO,The Turman-Foster Company,United States of America,30697761.0,3.0697761
+994108,All of Us Strangers,en,2023-12-22,5000000,14864960.0,105.0,42.709,7.5,652.0,Romance,Drama,Fantasy,Film4 Productions,Blueprint Pictures,Searchlight Pictures,United Kingdom,9864960.0,1.972992
+11615,The Life of David Gale,en,2003-02-21,50000000,38955598.0,130.0,22.697,7.43,1996.0,Drama,Thriller,Crime,Mikona Productions,Universal Pictures,Intermedia,Germany,-11044402.0,-0.22088804
+8388,¡Three Amigos!,en,1986-12-12,25000000.0,39200000.0,103.0,32.802,6.3,971.0,Comedy,Western,Drama,L.A. Films,Orion Pictures,HBO,United States of America,14200000.0,0.568
+2043,Along Came a Spider,en,2001-04-06,60000000,105200000.0,104.0,38.633,6.338,1825.0,Crime,Mystery,Thriller,Paramount Pictures,David Brown Productions,Phase 1 Productions,Canada,45200000.0,0.7533333333333333
+516329,Antlers,en,2021-10-28,17000000.0,18867659.0,99.0,32.701,6.2,1076.0,Drama,Horror,Mystery,Searchlight Pictures,Phantom Four,Double Dare You,United States of America,1867659.0,0.10986229411764706
+11359,The Indian in the Cupboard,en,1995-07-14,45000000.0,35700000.0,96.0,33.086,6.5,615.0,Adventure,Family,Fantasy,Paramount Pictures,The Kennedy/Marshall Company,Columbia Pictures,United States of America,-9300000.0,-0.20666666666666667
+309886,Blood Father,en,2016-08-11,13000000,6903033.0,88.0,41.004,6.2,1513.0,Action,Thriller,Drama,Wild Bunch,Why Not Productions,Lionsgate,United States of America,-6096967.0,-0.46899746153846156
+9411,Fallen,en,1998-01-16,46000000.0,25232289.0,124.0,34.545,6.8,1406.0,Crime,Drama,Thriller,Warner Bros. Pictures,Turner Pictures,Atlas Entertainment,United States of America,-20767711.0,-0.45147197826086954
+91314,Transformers: Age of Extinction,en,2014-06-25,210000000,1104054072.0,165.0,118.302,5.939,8074.0,Science Fiction,Action,Adventure,di Bonaventura Pictures,DeSanto/Murphy Productions,Ian Bryce Productions,United States of America,894054072.0,4.257400342857143
+71,Billy Elliot,en,2000-09-28,5000000,109280263.0,110.0,38.826,7.6,3790.0,Drama,Comedy,Music,StudioCanal,BBC Film,Tiger Aspect,France,104280263.0,20.8560526
+41517,Ra.One,hi,2011-10-24,24000000,35911689.0,156.0,20.967,5.7,328.0,Adventure,Action,Science Fiction,Red Chillies Entertainment,Eros International,Prime Focus,India,11911689.0,0.496320375
+9451,Election,en,1999-04-23,25000000.0,14902041.0,103.0,30.751,6.855,1040.0,Comedy,Romance,Drama,Paramount Pictures,MTV Films,New Regency Pictures,United States of America,-10097959.0,-0.40391836
+409,The English Patient,en,1996-11-14,27000000.0,231976425.0,162.0,30.557,7.173,2161.0,Drama,Romance,War,Miramax,The Saul Zaentz Company,Tiger Moth Productions,United Kingdom,204976425.0,7.591719444444444
+44833,Battleship,en,2012-04-11,209000000,303025485.0,131.0,56.783,5.9,5456.0,Thriller,Action,Adventure,Bluegrass Films,Film 44,dentsu,Japan,94025485.0,0.4498827033492823
+12919,Can't Buy Me Love,en,1987-08-14,1800000.0,31623833.0,94.0,35.049,6.934,656.0,Drama,Comedy,Romance,Apollo Pictures,Touchstone Pictures,The Mount Company,United States of America,29823833.0,16.568796111111112
+572,Next Door,no,2005-03-11,2400000,0.0,75.0,20.961,6.3,202.0,Horror,Mystery,Thriller,Nordisk Film Sweden,Produksjon 4 1/2,4 1/2,Denmark,-2400000.0,-1.0
+10537,The Doors,en,1991-03-01,38000000,34416893.0,140.0,22.16,7.1,1413.0,Music,Drama,History,Carolco Pictures,Bill Graham Films,Imagine Entertainment,United States of America,-3583107.0,-0.0942922894736842
+337404,Cruella,en,2021-05-26,200000000,233503234.0,134.0,92.862,8.01,9254.0,Comedy,Crime,Family,Walt Disney Pictures,Gunn Films,Marc Platt Productions,United States of America,33503234.0,0.16751617
+242310,Rage,en,2014-05-09,15000000.0,2424381.0,98.0,27.592,5.3,737.0,Action,Crime,Thriller,Vocal Yokels,Hannibal Pictures,Patriot Pictures,France,-12575619.0,-0.8383746
+263109,Shaun the Sheep Movie,en,2015-02-05,25000000,106209378.0,85.0,21.05,7.0,1373.0,Family,Animation,Comedy,Aardman,Anton Capital Entertainment,StudioCanal,France,81209378.0,3.24837512
+58244,Upside Down,en,2012-09-27,60000000.0,22187813.0,104.0,28.265,6.3,2453.0,Romance,Science Fiction,Drama,Upside Down Films,Les Films Upside Down,Onyx Films,Canada,-37812187.0,-0.6302031166666666
+882059,Boy Kills World,en,2024-04-24,18000000,3139717.0,110.0,68.717,6.9,526.0,Crime,Thriller,Action,Vertigo Entertainment,Hammerstone Studios,Nthibah Pictures,United States of America,-14860283.0,-0.8255712777777777
+507241,The Killer's Game,en,2024-09-12,30000000,5090881.0,104.0,422.251,6.429,77.0,Action,Comedy,Crime,STXfilms,Dogbone Entertainment,Mad Chance,United States of America,-24909119.0,-0.8303039666666666
+11371,The Score,en,2001-07-13,68000000.0,113579918.0,124.0,25.861,6.693,1617.0,Action,Crime,Thriller,Horseshoe Bay Productions,Paramount Pictures,Mandalay Pictures,Canada,45579918.0,0.6702929117647058
+2116,Out of Time,en,2003-10-03,50000000,55495563.0,105.0,21.708,6.3,1141.0,Thriller,Crime,Drama,Monarch Pictures,Original Film,Metro-Goldwyn-Mayer,United States of America,5495563.0,0.10991126
+526050,Little,en,2019-04-04,20000000.0,17399000.0,108.0,25.886,6.9,705.0,Comedy,Fantasy,Romance,Will Packer Productions,Universal Pictures,Legendary Pictures,United States of America,-2601000.0,-0.13005
+10923,Agent Cody Banks,en,2003-03-14,28000000,58795814.0,102.0,21.606,5.5,1070.0,Action,Adventure,Comedy,Madacy Entertainment,Splendid Pictures,Maverick Films,Canada,30795814.0,1.0998505
+50359,Hop,en,2011-03-30,63000000,183953723.0,95.0,44.111,5.762,1250.0,Animation,Comedy,Family,Universal Pictures,Illumination,Relativity Media,Japan,120953723.0,1.9199003650793651
+263341,"Crouching Tiger, Hidden Dragon: Sword of Destiny",en,2016-02-18,20000000.0,0.0,103.0,32.866,6.108,630.0,Action,Adventure,Drama,The Weinstein Company,Yucaipa Films,Pegasus Taihe Entertainment,China,-20000000.0,-1.0
+375262,The Favourite,en,2018-11-23,15000000.0,95918706.0,120.0,33.163,7.513,5437.0,Drama,Comedy,Thriller,Waypoint Entertainment,Element Pictures,Scarlet Films,Ireland,80918706.0,5.3945804
+796499,Army of Thieves,en,2021-10-29,30000000,46900000.0,127.0,36.979,6.839,2008.0,Action,Thriller,Crime,Pantaleon Films,The Stone Quarry,Film United,Germany,16900000.0,0.5633333333333334
+825,Playing by Heart,en,1998-12-30,20000000,3970078.0,121.0,23.775,6.6,220.0,Comedy,Drama,Romance,Morpheus,Hyperion Pictures,Intermedia,United States of America,-16029922.0,-0.8014961
+10606,The Philadelphia Experiment,en,1984-10-05,21000000,0.0,102.0,21.392,6.101,377.0,Science Fiction,Adventure,Thriller,New Pictures Group,New World Pictures,Cinema Group Ventures,United States of America,-21000000.0,-1.0
+339988,The Circle,en,2017-04-27,18000000.0,40651864.0,110.0,33.029,5.517,4365.0,Drama,Thriller,Science Fiction,Image Nation Abu Dhabi,Parkes+MacDonald Image Nation,Route One Entertainment,France,22651864.0,1.2584368888888888
+254128,San Andreas,en,2015-05-27,110000000,473990832.0,114.0,95.383,6.244,8471.0,Action,Drama,Thriller,New Line Cinema,Village Roadshow Pictures,Flynn Picture Company,Canada,363990832.0,3.3090075636363636
+921,Cinderella Man,en,2005-06-02,88000000.0,108539911.0,144.0,29.938,7.5,2153.0,Romance,Drama,History,Universal Pictures,Miramax,Imagine Entertainment,United States of America,20539911.0,0.23340807954545453
+12160,Wyatt Earp,en,1994-06-24,63000000.0,25100000.0,191.0,23.08,6.8,834.0,Western,Drama,Action,Paragon Entertainment Corp.,Tig Productions,Kasdan Pictures,United States of America,-37900000.0,-0.6015873015873016
+12289,Red Cliff,zh,2008-07-10,80341000.0,250100000.0,145.0,27.776,7.1,799.0,Adventure,Drama,History,Lion Rock Productions,Showbox,Beijing Film Studio,China,169759000.0,2.1129809188334723
+585245,Clifford the Big Red Dog,en,2021-11-10,64000000,107347356.0,97.0,70.784,7.2,1720.0,Family,Adventure,Comedy,Paramount Pictures,Entertainment One,New Republic Pictures,Canada,43347356.0,0.6773024375
+459910,Braven,en,2018-02-01,5000000.0,854319.0,94.0,24.333,6.179,1008.0,Drama,Action,Thriller,Pride of Gypsies,Tinker Productions,Hassell Free Production,Canada,-4145681.0,-0.8291362
+3638,No Reservations,en,2007-06-15,28000000,92601050.0,104.0,31.365,6.638,1315.0,Comedy,Romance,Drama,Castle Rock Entertainment,Storefront Pictures,Village Roadshow Pictures,Australia,64601050.0,2.3071803571428573
+140300,Kung Fu Panda 3,en,2016-01-23,145000000,521170825.0,95.0,73.198,6.9,5969.0,Action,Adventure,Animation,DreamWorks Animation,China Film Group Corporation,Oriental DreamWorks,China,376170825.0,2.594281551724138
+26389,From Paris with Love,en,2010-02-04,52000000.0,52800000.0,92.0,28.295,6.3,1964.0,Action,Crime,Thriller,M6,M6 Films,TPS Star,United Kingdom,800000.0,0.015384615384615385
+12476,The Hidden,en,1987-10-30,5000000,9747988.0,96.0,21.428,6.9,409.0,Science Fiction,Thriller,Action,Third Elm Street Venture,Heron Communications,Mega Entertainment,United States of America,4747988.0,0.9495976
+1276825,Long Gone Heroes,en,2024-09-20,18000000,0.0,92.0,36.625,4.9,12.0,Action,War,Crime,7ONE7 Films,Coexistence Studios,WonderDreams Pictures,Colombia,-18000000.0,-1.0
+13597,Labyrinth,en,1986-06-27,25000000,12729917.0,102.0,55.451,7.3,2393.0,Adventure,Family,Fantasy,TriStar Pictures,Delphi V,Henson Associates,United Kingdom,-12270083.0,-0.49080332
+11953,Kagemusha,ja,1980-04-26,6000000,4000000.0,180.0,21.827,7.809,637.0,Action,Drama,History,TOHO,20th Century Fox,Kurosawa Production,Japan,-2000000.0,-0.3333333333333333
+309809,The Little Prince,en,2015-07-29,64000000.0,97571250.0,108.0,35.461,7.6,2764.0,Adventure,Animation,Fantasy,Orange Studio,ON Animation Studios,M6 Films,France,33571250.0,0.52455078125
+639720,IF,en,2024-05-08,110000000,186240904.0,104.0,397.216,7.273,958.0,Comedy,Fantasy,Family,Paramount Pictures,Sunday Night Productions,Maximum Effort,United States of America,76240904.0,0.6930991272727273
+637649,Wrath of Man,en,2021-04-22,40000000,103966489.0,118.0,97.307,7.63,5215.0,Crime,Action,Thriller,Miramax,Toff Guy Films,Flic Films,United Kingdom,63966489.0,1.599162225
+479455,Men in Black: International,en,2019-06-12,110000000,253890701.0,115.0,36.062,5.9,4848.0,Comedy,Science Fiction,Action,Amblin Entertainment,Parkes+MacDonald Image Nation,Columbia Pictures,China,143890701.0,1.3080972818181817
+299687,The 5th Wave,en,2016-01-14,38000000,109906372.0,112.0,55.61,5.942,5702.0,Science Fiction,Adventure,Action,LStar Capital,Columbia Pictures,GK Films,United States of America,71906372.0,1.892272947368421
+10515,Castle in the Sky,ja,1986-08-02,3000000,5228752.0,125.0,47.198,7.975,4150.0,Adventure,Fantasy,Animation,Studio Ghibli,Nibariki,Tokuma Shoten,Japan,2228752.0,0.7429173333333333
+332,Inspector Gadget,en,1999-07-23,75000000.0,134403112.0,78.0,38.763,4.478,1201.0,Action,Adventure,Comedy,DiC Entertainment,Walt Disney Pictures,Caravan Pictures,United States of America,59403112.0,0.7920414933333333
+11589,Kelly's Heroes,en,1970-06-22,4000000.0,5200000.0,144.0,29.21,7.3,708.0,Adventure,Comedy,War,Katzka-Loeb,Avala Film,Metro-Goldwyn-Mayer,United States of America,1200000.0,0.3
+10197,Nine,en,2009-12-03,80000000,53825515.0,118.0,20.895,5.5,583.0,Drama,Music,Romance,Relativity Media,The Weinstein Company,Marc Platt Productions,Italy,-26174485.0,-0.3271810625
+9335,Transporter 2,en,2005-08-03,32000000,89100000.0,87.0,44.285,6.321,3553.0,Action,Thriller,Crime,EuropaCorp,TF1 Films Production,Current Entertainment,France,57100000.0,1.784375
+460458,Resident Evil: Welcome to Raccoon City,en,2021-11-24,25000000,41914915.0,107.0,58.977,6.0,2420.0,Horror,Science Fiction,Action,Constantin Film,Davis Films,Screen Gems,France,16914915.0,0.6765966
+102362,Dead Man Down,en,2013-03-08,30000000,19600000.0,118.0,37.463,6.2,1430.0,Thriller,Action,Crime,WWE Studios,Original Film,Frequency Films,United States of America,-10400000.0,-0.3466666666666667
+10991,Pokémon 3: The Movie,ja,2000-07-08,16000000.0,68400000.0,74.0,30.455,6.5,618.0,Adventure,Fantasy,Animation,Nintendo,OLM,TV Tokyo,Japan,52400000.0,3.275
+9874,Cobra,en,1986-01-01,25000000,49042224.0,87.0,49.435,6.1,1732.0,Action,Crime,Thriller,The Cannon Group,Warner Bros. Pictures,Golan-Globus Productions,United States of America,24042224.0,0.96168896
+393559,My Life as a Zucchini,fr,2016-09-22,8000000,5873256.0,66.0,42.423,7.8,1337.0,Animation,Comedy,Drama,Gébéka Films,Rita Productions,Blue Spirit,France,-2126744.0,-0.265843
+7972,Before the Devil Knows You're Dead,en,2007-09-26,18000000,25005257.0,117.0,23.979,7.1,1460.0,Crime,Drama,Thriller,Michael Cerenzie Productions,Capitol Films,Linsefilm,United States of America,7005257.0,0.38918094444444445
+3536,U-571,en,2000-04-20,62000000.0,127700000.0,116.0,24.722,6.5,1210.0,War,Action,Adventure,Universal Pictures,The De Laurentiis Company,StudioCanal,France,65700000.0,1.0596774193548386
+9448,The Big Hit,en,1998-04-24,13000000,27007143.0,91.0,37.373,5.9,412.0,Action,Adventure,Comedy,TriStar Pictures,Lion Rock Productions,Amen Ra Films,United States of America,14007143.0,1.0774725384615385
+401898,Thelma,no,2017-09-15,5700000.0,1500000.0,116.0,25.06,6.8,1008.0,Drama,Mystery,Thriller,Motlys,Film i Väst,Le Pacte,Denmark,-4200000.0,-0.7368421052631579
+1649,Bill & Ted's Bogus Journey,en,1991-07-19,20000000.0,38000000.0,93.0,24.574,6.3,1196.0,Adventure,Comedy,Science Fiction,Orion Pictures,Nelson Entertainment,Interscope Communications,United States of America,18000000.0,0.9
+709,Licence to Kill,en,1989-06-13,32000000,156167015.0,133.0,38.751,6.4,1892.0,Adventure,Action,Thriller,United Artists,EON Productions,Estudios Churubusco Azteca,Mexico,124167015.0,3.88021921875
+13499,"Yours, Mine & Ours",en,2005-11-23,45000000,72028752.0,90.0,21.907,6.2,812.0,Comedy,Family,Romance,Paramount Pictures,Metro-Goldwyn-Mayer,Columbia Pictures,United States of America,27028752.0,0.6006389333333333
+457332,Hidden Strike,en,2023-07-06,80000000,0.0,103.0,46.843,6.965,959.0,Action,Comedy,Thriller,Talent International Media,XYZ Films,Changchun Film Studio,China,-80000000.0,-1.0
+944401,Dogman,fr,2023-09-27,22700000,4082217.0,114.0,61.288,7.9,1022.0,Action,Drama,Crime,EuropaCorp,LBP,TF1 Films Production,France,-18617783.0,-0.8201666519823788
+9383,Hollow Man,en,2000-08-04,95000000,190213455.0,112.0,52.223,5.9,2488.0,Action,Science Fiction,Thriller,Columbia Pictures,Red Wagon Entertainment,Global Medien KG,Germany,95213455.0,1.0022468947368421
+11352,Always,en,1989-12-22,31000000.0,74100000.0,122.0,16.957,6.3,585.0,Romance,Fantasy,Drama,Universal Pictures,United Artists,Amblin Entertainment,United States of America,43100000.0,1.3903225806451613
+766,Army of Darkness,en,1992-10-31,11000000,21502976.0,81.0,50.043,7.3,3114.0,Fantasy,Horror,Comedy,Renaissance Pictures,The De Laurentiis Company,Introvision International,United States of America,10502976.0,0.954816
+157336,Interstellar,en,2014-11-05,165000000,701729206.0,169.0,167.83,8.441,35425.0,Adventure,Drama,Science Fiction,Legendary Pictures,Syncopy,Lynda Obst Productions,United Kingdom,536729206.0,3.2529042787878786
+9387,Conan the Barbarian,en,1982-04-02,20000000,74000000.0,129.0,72.892,6.8,2467.0,Adventure,Fantasy,Action,Universal Pictures,The De Laurentiis Company,Pressman Film,Mexico,54000000.0,2.7
+288158,The Woman in Black 2: Angel of Death,en,2014-12-30,15000000.0,48854305.0,98.0,24.556,5.261,1001.0,Thriller,Horror,Drama,Hammer Film Productions,Alliance Films,Exclusive Media,Canada,33854305.0,2.2569536666666665
+1058,Breathless,en,1983-05-13,7500000,19910002.0,100.0,21.384,5.8,233.0,Romance,Drama,Action,Orion Pictures,Breathless Associates,Miko Productions,United States of America,12410002.0,1.6546669333333333
+9303,Bound,en,1996-09-13,4500000,7011317.0,105.0,35.911,7.2,920.0,Drama,Thriller,Crime,The De Laurentiis Company,Summit Entertainment,Newmarket Capital Group,United States of America,2511317.0,0.5580704444444444
+24418,Cirque du Freak: The Vampire's Assistant,en,2009-10-23,40000000.0,28169671.0,109.0,30.773,5.821,1072.0,Adventure,Fantasy,Action,Universal Pictures,Relativity Media,Depth of Field,United States of America,-11830329.0,-0.295758225
+498248,Mia and the White Lion,fr,2018-08-02,9600000.0,35487190.0,98.0,31.077,7.3,853.0,Adventure,Family,Drama,M6 Films,Film Afrika,Pandora Film,South Africa,25887190.0,2.6965822916666666
+676701,"Tad, the Lost Explorer and the Emerald Tablet",es,2022-08-24,11983950,32800000.0,89.0,49.986,7.5,303.0,Animation,Adventure,Family,Lightbox Animation Studios,4 Cats Pictures,Ikiru Films,Spain,20816050.0,1.736994062892452
+8285,The Spirit,en,2008-12-25,60000000.0,39031337.0,103.0,27.184,4.741,957.0,Action,Comedy,Crime,Lionsgate,Dark Lot Entertainment,Continental Entertainment Group (CEG),United States of America,-20968663.0,-0.34947771666666666
+866398,The Beekeeper,en,2024-01-08,35000000,152720535.0,105.0,142.146,7.4,3016.0,Crime,Action,Adventure,Miramax,Cedar Park Entertainment,Punch Palace Productions,United Kingdom,117720535.0,3.3634438571428573
+619803,The Roundup,ko,2022-05-18,7600000,101166707.0,106.0,47.438,7.246,291.0,Action,Crime,Comedy,BA Entertainment,Hong Film,Big Punch Pictures,South Korea,93566707.0,12.311408815789473
+11540,Arsène Lupin,fr,2004-09-17,23000000.0,0.0,131.0,17.914,5.3,330.0,Romance,Action,Adventure,Hugo Films,TF1 Films Production,M6 Films,Spain,-23000000.0,-1.0
+40805,The Green Hornet,en,2011-01-12,120000000,227817248.0,119.0,37.628,5.6,3188.0,Action,Crime,Comedy,Original Film,Reliance Big Entertainment,Sony Pictures,United States of America,107817248.0,0.8984770666666667
+522016,The 355,en,2022-01-05,75000000,55700000.0,122.0,48.643,6.062,987.0,Action,Adventure,Thriller,Freckle Films,Genre Films,FilmNation Entertainment,France,-19300000.0,-0.25733333333333336
+11975,The Rainmaker,en,1997-11-18,40000000.0,45916769.0,135.0,25.159,7.0,1269.0,Drama,Crime,Thriller,Douglas/Reuther Productions,American Zoetrope,Constellation Films,United States of America,5916769.0,0.147919225
+120,The Lord of the Rings: The Fellowship of the Ring,en,2001-12-18,93000000,871368364.0,179.0,247.744,8.4,25032.0,Adventure,Fantasy,Action,New Line Cinema,WingNut Films,The Saul Zaentz Company,New Zealand,778368364.0,8.369552301075268
+1368,First Blood,en,1982-10-22,15000000,125212904.0,93.0,65.325,7.493,6198.0,Action,Adventure,Thriller,Carolco Pictures,Anabasis N.V.,Elcajo Productions,United States of America,110212904.0,7.3475269333333335
+294254,Maze Runner: The Scorch Trials,en,2015-09-09,61000000,312296056.0,131.0,99.167,6.7,10282.0,Science Fiction,Action,Thriller,Temple Hill Entertainment,The Gotham Group,TSG Entertainment,United States of America,251296056.0,4.119607475409836
+569094,Spider-Man: Across the Spider-Verse,en,2023-05-31,100000000,690897910.0,140.0,210.593,8.359,6878.0,Animation,Action,Adventure,Columbia Pictures,Sony Pictures Animation,Lord Miller,United States of America,590897910.0,5.9089791
+54138,Star Trek Into Darkness,en,2013-05-05,190000000,467381584.0,132.0,36.814,7.3,9017.0,Action,Adventure,Science Fiction,Bad Robot,Paramount Pictures,Skydance Media,United States of America,277381584.0,1.4599030736842105
+80278,The Impossible,en,2012-09-09,45000000.0,198100000.0,114.0,30.157,7.4,6223.0,Adventure,Drama,Thriller,Summit Entertainment,Apaches Films,Mediaset España,Spain,153100000.0,3.402222222222222
+9386,In the Line of Fire,en,1993-07-08,40000000,177000000.0,128.0,38.616,6.984,1552.0,Action,Drama,Thriller,Castle Rock Entertainment,Apple / Rose,Columbia Pictures,United States of America,137000000.0,3.425
+535292,21 Bridges,en,2019-10-24,33000000.0,49900000.0,99.0,35.103,6.8,1925.0,Crime,Action,Drama,AGBO,MWM Studios,Huayi Brothers Pictures,United States of America,16900000.0,0.5121212121212121
+9437,Kiss the Girls,en,1997-09-29,27000000,60527873.0,115.0,77.448,6.524,1588.0,Thriller,Crime,Mystery,Paramount Pictures,Rysher Entertainment,David Brown Productions,United States of America,33527873.0,1.241773074074074
+3980,Critters,en,1986-04-11,2000000.0,13167232.0,86.0,29.349,6.4,961.0,Comedy,Horror,Science Fiction,New Line Cinema,Smart Egg Pictures,Sho Films,United Kingdom,11167232.0,5.583616
+10029,Very Bad Things,en,1998-09-11,30000000.0,9898412.0,100.0,29.443,6.272,602.0,Comedy,Crime,Thriller,VBT Productions,Initial Entertainment Group,Interscope Communications,United States of America,-20101588.0,-0.6700529333333334
+38745,Gulliver's Travels,en,2010-12-23,112000000.0,237382724.0,85.0,26.895,5.2,2363.0,Family,Comedy,Adventure,Dune Entertainment,Davis Entertainment,Dune Entertainment III,United States of America,125382724.0,1.1194886071428571
+607,Men in Black,en,1997-07-02,90000000,589400000.0,98.0,56.006,7.202,13653.0,Action,Adventure,Comedy,Columbia Pictures,Amblin Entertainment,MacDonald/Parkes Productions,United States of America,499400000.0,5.5488888888888885
+2275,The General's Daughter,en,1999-06-18,60000000,149700000.0,116.0,17.386,6.386,903.0,Thriller,Mystery,Crime,MFP Munich Film Partners GmbH & Company I. Produktions KG,Paramount Pictures,Neufeld/Rehme Productions,Germany,89700000.0,1.495
+10586,The Ghost and the Darkness,en,1996-10-11,50000000.0,38619405.0,109.0,27.195,6.786,1009.0,Adventure,Action,Thriller,Paramount Pictures,Douglas/Reuther Productions,Bernina Film,Germany,-11380595.0,-0.2276119
+566810,The Dark Kingdom,en,2018-11-26,126580.0,0.0,85.0,29.862,5.9,64.0,Fantasy,Adventure,Science Fiction,Grass Temple Films,High Fliers Films,Hollywood Vision,United Kingdom,-126580.0,-1.0
+10016,Ghosts of Mars,en,2001-08-24,28000000.0,14010832.0,98.0,28.438,5.112,1070.0,Action,Horror,Science Fiction,Animationwerks,Screen Gems,Storm King Productions,United States of America,-13989168.0,-0.49961314285714287
+940241,97 Minutes,en,2023-06-09,7000000.0,0.0,93.0,24.119,4.7,79.0,Action,Thriller,Drama,Black Hangar Studios,Black Lab,Buffalo 8 Productions,Canada,-7000000.0,-1.0
+14317,The Wild Thornberrys Movie,en,2002-12-20,35000000,0.0,85.0,21.696,6.4,252.0,Animation,Adventure,Family,Paramount Pictures,Nickelodeon Movies,Klasky-Csupo,United States of America,-35000000.0,-1.0
+9591,That Thing You Do!,en,1996-10-04,26000000,34585416.0,108.0,36.523,6.868,824.0,Comedy,Drama,Romance,Clinica Estetico,Clavius Base,20th Century Fox,United States of America,8585416.0,0.3302083076923077
+387592,Early Man,en,2018-01-26,50000000.0,53431158.0,89.0,27.748,6.149,788.0,Family,Comedy,Animation,Aardman,StudioCanal,Creative Skillset's Skills Investment Fund,France,3431158.0,0.06862316
+8584,Shanghai Noon,en,2000-05-26,55000000.0,99300000.0,110.0,33.754,6.4,2489.0,Adventure,Action,Comedy,Roger Birnbaum Productions,Spyglass Entertainment,Touchstone Pictures,Hong Kong,44300000.0,0.8054545454545454
+589761,Chernobyl: Abyss,ru,2021-04-15,9100000,6459306.0,136.0,40.987,6.261,505.0,Drama,History,Adventure,Non-Stop Productions,DK Entertainment,Central Partnership,Russia,-2640694.0,-0.29018615384615387
+67,Paradise Now,en,2005-09-07,2000000.0,3395627.0,90.0,26.048,6.9,257.0,Thriller,Crime,Drama,Eurimages,Lama Films,Augustus Film,France,1395627.0,0.6978135
+137116,Smurfs: The Lost Village,en,2017-03-23,60000000,197183546.0,89.0,37.567,6.315,1420.0,Animation,Family,Adventure,Kerner Entertainment Company,Columbia Pictures,Sony Pictures Animation,China,137183546.0,2.2863924333333334
+614934,Elvis,en,2022-06-22,85000000.0,288670284.0,159.0,35.246,7.519,3373.0,Drama,Music,History,Warner Bros. Pictures,Bazmark,The Jackal Group,Australia,203670284.0,2.3961209882352943
+27581,The Other Guys,en,2010-08-06,100000000.0,170432927.0,116.0,31.586,6.308,4130.0,Action,Comedy,Crime,Columbia Pictures,Gary Sanchez Productions,Mosaic Media Group,United States of America,70432927.0,0.70432927
+2668,Sleepy Hollow,en,1999-11-19,100000000,206071526.0,105.0,69.516,7.2,6687.0,Drama,Fantasy,Thriller,Paramount Pictures,Mandalay Pictures,American Zoetrope,Germany,106071526.0,1.06071526
+2164,Stargate,en,1994-10-28,55000000.0,196567262.0,121.0,30.668,7.007,3384.0,Action,Adventure,Science Fiction,Centropolis Entertainment,Carolco Pictures,Le Studio Canal+,France,141567262.0,2.5739502181818184
+781732,Animal,hi,2023-12-01,13000000,108300000.0,201.0,46.04,6.4,107.0,Action,Crime,Drama,T-Series,Bhadrakali Pictures,ST Film,India,95300000.0,7.3307692307692305
+13969,First Daughter,en,2004-09-24,30000000,0.0,105.0,39.714,6.137,893.0,Family,Comedy,Drama,New Regency Pictures,Davis Entertainment,Spirit Dance Entertainment,United States of America,-30000000.0,-1.0
+8355,Ice Age: Dawn of the Dinosaurs,en,2009-06-26,90000000,886686817.0,94.0,113.288,6.754,8234.0,Animation,Comedy,Family,Blue Sky Studios,20th Century Fox Animation,20th Century Fox,United States of America,796686817.0,8.852075744444445
+11323,The Informant!,en,2009-09-18,22000000,41771168.0,108.0,18.399,6.1,863.0,Drama,Comedy,Crime,Jaffe / Braunstein Enterprise,Participant,Groundswell Productions,United States of America,19771168.0,0.8986894545454546
+59963,Dark Tide,en,2012-03-28,25000000,432274.0,113.0,23.748,4.866,212.0,Thriller,Adventure,Drama,Social Capital,Lipsync Productions,Alliance Cinema,South Africa,-24567726.0,-0.98270904
+459003,Mavka: The Forest Song,uk,2023-03-02,5000000,17974964.0,99.0,84.094,7.3,725.0,Animation,Adventure,Family,Animagrad Animation Studio,3Beep,FILM.UA Group,Ukraine,12974964.0,2.5949928
+10145,The Forgotten,en,2004-09-24,42000000,117592831.0,91.0,41.247,5.9,1109.0,Thriller,Drama,Mystery,Visual Arts Entertainment,Revolution Studios,Jinks/Cohen Company,United States of America,75592831.0,1.7998293095238096
+1254234,Blood Dried Hands,en,2024-05-01,100000,0.0,115.0,85.166,0.0,0.0,Horror,Thriller,Drama,Tempting Fate Films,Bar G Moving Pictures,[BRACKETTED] Productions,United States of America,-100000.0,-1.0
+8953,Steamboy,ja,2004-07-17,26000000,18900000.0,126.0,22.805,6.9,420.0,Animation,Fantasy,Science Fiction,Bandai Visual,SUNRISE,Steamboy Committee,Japan,-7100000.0,-0.27307692307692305
+308639,Dope,en,2015-06-19,7000000.0,17986781.0,103.0,25.537,7.1,1455.0,Crime,Drama,Comedy,Revolt Films,Significant Productions,IamOTHER Entertainment,United States of America,10986781.0,1.569540142857143
+837,Videodrome,en,1983-02-04,5952000.0,2120439.0,88.0,25.358,7.3,2177.0,Horror,Science Fiction,Mystery,Guardian Trust Company,Filmplan International,Canadian Film Development Corporation,Canada,-3831561.0,-0.6437434475806452
+9509,Man on Fire,en,2004-04-23,70000000,130300000.0,146.0,63.314,7.464,5060.0,Action,Drama,Thriller,Fox 2000 Pictures,Regency Enterprises,New Regency Pictures,Switzerland,60300000.0,0.8614285714285714
+2039,Moonstruck,en,1987-12-16,15000000.0,80640528.0,102.0,24.763,6.8,914.0,Comedy,Drama,Romance,Star Partners,Metro-Goldwyn-Mayer,Patrick Palmer & Norman Jewison Productions,United States of America,65640528.0,4.3760352
+13377,How the Grinch Stole Christmas!,en,1966-12-18,315000.0,0.0,26.0,29.916,7.495,989.0,Animation,Family,Comedy,The Cat in the Hat Productions,MGM Television,MGM Animation/Visual Arts,United States of America,-315000.0,-1.0
+429300,Adrift,en,2018-05-31,35000000,59945012.0,96.0,20.947,6.851,2555.0,Thriller,Romance,Adventure,STXfilms,RVK Studios,Lakeshore Entertainment,China,24945012.0,0.7127146285714285
+43074,Ghostbusters,en,2016-07-14,144000000,229147509.0,117.0,47.677,5.358,6379.0,Action,Fantasy,Comedy,Ghost Corps,Columbia Pictures,Village Roadshow Pictures,United States of America,85147509.0,0.5913021458333333
+63,Twelve Monkeys,en,1995-12-29,29000000,168841459.0,129.0,38.978,7.6,8272.0,Science Fiction,Thriller,Mystery,Universal Pictures,Atlas Entertainment,Classico,United States of America,139841459.0,4.822119275862069
+6964,Something's Gotta Give,en,2003-12-12,80000000.0,270000000.0,128.0,26.223,6.6,1560.0,Drama,Comedy,Romance,Columbia Pictures,Warner Bros. Pictures,Waverly Films,United States of America,190000000.0,2.375
+11595,Another 48 Hrs.,en,1990-06-08,38000000,153518974.0,95.0,23.031,6.0,858.0,Thriller,Action,Comedy,Paramount Pictures,Eddie Murphy Productions,Lawrence Gordon Productions,United States of America,115518974.0,3.039973
+10122,Flight of the Navigator,en,1986-07-30,9000000,18564613.0,90.0,36.76,6.9,828.0,Family,Science Fiction,Adventure,New Star Entertainment,Walt Disney Pictures,Viking Film,United States of America,9564613.0,1.0627347777777778
+9894,The Cable Guy,en,1996-06-10,47000000.0,102825796.0,96.0,31.533,5.99,2383.0,Comedy,Drama,Thriller,Columbia Pictures,Brillstein-Grey Entertainment,Licht/Mueller Film Corporation,United States of America,55825796.0,1.1877828936170214
+13027,Eagle Eye,en,2008-09-25,80000000,178800000.0,118.0,44.065,6.474,2812.0,Mystery,Thriller,Action,KMP Film Invest,K/O Paper Products,DreamWorks Pictures,Germany,98800000.0,1.235
+291328,Rules Don't Apply,en,2016-11-23,25000000,3900000.0,127.0,21.901,5.7,468.0,Romance,Comedy,Drama,Tatira,Shangri-La Entertainment,New Regency Pictures,United States of America,-21100000.0,-0.844
+293660,Deadpool,en,2016-02-09,58000000,782837347.0,108.0,154.989,7.623,30882.0,Action,Adventure,Comedy,20th Century Fox,The Donners' Company,Genre Films,United States of America,724837347.0,12.497195637931034
+28355,Case 39,en,2009-08-13,27000000,29000000.0,109.0,39.809,6.31,2199.0,Horror,Mystery,Thriller,Paramount Vantage,Misher Films,Anonymous Content,Canada,2000000.0,0.07407407407407407
+41513,The Smurfs,en,2011-07-29,110000000,563749323.0,103.0,63.368,5.769,3710.0,Animation,Family,Adventure,Columbia Pictures,Sony Pictures Animation,Kerner Entertainment Company,United States of America,453749323.0,4.124993845454545
+65754,The Girl with the Dragon Tattoo,en,2011-12-14,90000000.0,232617430.0,158.0,30.559,7.374,6912.0,Thriller,Crime,Mystery,Columbia Pictures,Metro-Goldwyn-Mayer,Scott Rudin Productions,Sweden,142617430.0,1.5846381111111112
+11802,Space Chimps,en,2008-06-25,37000000.0,64762724.0,81.0,30.957,4.857,451.0,Animation,Family,Adventure,Studiopolis,Vanguard Animation,Odyssey Entertainment,Canada,27762724.0,0.7503438918918919
+383498,Deadpool 2,en,2018-05-10,110000000,785896632.0,120.0,131.412,7.494,17821.0,Action,Comedy,Adventure,Maximum Effort,Genre Films,20th Century Fox,United States of America,675896632.0,6.144514836363636
+487558,BlacKkKlansman,en,2018-08-09,15000000,93411426.0,136.0,38.28,7.511,7467.0,Crime,Comedy,Drama,Focus Features,Legendary Pictures,QC Entertainment,United States of America,78411426.0,5.2274284
+273248,The Hateful Eight,en,2015-12-25,44000000,155760117.0,188.0,47.563,7.753,14086.0,Drama,Mystery,Western,The Weinstein Company,Double Feature Films,FilmColony,United States of America,111760117.0,2.5400026590909093
+384680,Hostiles,en,2017-12-22,55000000.0,36976336.0,134.0,33.748,6.918,2256.0,Drama,Western,History,Waypoint Entertainment,Le Grisbi Productions,Bloom,United States of America,-18023664.0,-0.3277029818181818
+8619,Master and Commander: The Far Side of the World,en,2003-11-14,150000000,212000000.0,138.0,43.679,7.2,3117.0,Adventure,Drama,War,20th Century Fox,Miramax,Universal Pictures,United States of America,62000000.0,0.41333333333333333
+280217,The Lego Movie 2: The Second Part,en,2019-02-06,99000000,199603202.0,107.0,40.51,6.682,2176.0,Action,Adventure,Animation,Vertigo Entertainment,Warner Bros. Pictures Animation,Lord Miller,Canada,100603202.0,1.0161939595959597
+287947,Shazam!,en,2019-03-29,80000000,367799011.0,132.0,53.439,7.009,9438.0,Action,Comedy,Fantasy,New Line Cinema,The Safran Company,Seven Bucks Productions,United States of America,287799011.0,3.5974876375
+667538,Transformers: Rise of the Beasts,en,2023-06-06,195000000,439000000.0,127.0,356.064,7.299,4542.0,Science Fiction,Adventure,Action,Skydance Media,Paramount Pictures,di Bonaventura Pictures,United States of America,244000000.0,1.2512820512820513
+438590,A-X-L,en,2018-08-23,10000000.0,0.0,98.0,35.004,6.3,1163.0,Science Fiction,Action,Adventure,Lakeshore Entertainment,Global Road Entertainment,Phantom Four,United States of America,-10000000.0,-1.0
+302401,Snowden,en,2016-09-15,40000000.0,37357216.0,134.0,28.604,7.1,4292.0,Drama,History,Crime,KrautPack Entertainment,Vendian Entertainment,Endgame Entertainment,France,-2642784.0,-0.0660696
+346685,The Girl on the Train,en,2016-10-05,45000000.0,173200000.0,112.0,35.51,6.4,5648.0,Thriller,Mystery,Drama,Reliance Entertainment,DreamWorks Pictures,Marc Platt Productions,India,128200000.0,2.848888888888889
+49021,Killer Elite,en,2011-09-22,66000000.0,57777106.0,116.0,32.63,6.256,2101.0,Action,Adventure,Thriller,Open Road Films,Current Entertainment,Omnilab Media,Australia,-8222894.0,-0.12458930303030304
+748783,The Garfield Movie,en,2024-04-30,60000000,230295748.0,101.0,344.914,7.118,1037.0,Animation,Comedy,Family,Alcon Entertainment,DNEG,Wayfarer Studios,Hong Kong,170295748.0,2.8382624666666665
+7485,Shooter,en,2007-03-22,61000000,95700000.0,124.0,57.209,7.119,4864.0,Drama,Action,Thriller,Paramount Pictures,di Bonaventura Pictures,Grosvenor Park Impact Productions,United States of America,34700000.0,0.5688524590163935
+6068,Six Days Seven Nights,en,1998-06-12,70000000.0,164839294.0,102.0,25.589,6.1,1440.0,Comedy,Action,Adventure,Roger Birnbaum Productions,Caravan Pictures,Touchstone Pictures,United States of America,94839294.0,1.3548470571428572
+667739,The Man from Toronto,en,2022-12-23,75000000.0,0.0,113.0,34.586,6.485,364.0,Action,Adventure,Comedy,Escape Artists,Sony Pictures,Bron Studios,Canada,-75000000.0,-1.0
+634,Bridget Jones's Diary,en,2001-04-13,25000000.0,281929795.0,97.0,31.06,6.8,4973.0,Comedy,Romance,Drama,Universal Pictures,StudioCanal,Miramax,France,256929795.0,10.2771918
+14444,The Rugrats Movie,en,1998-11-20,30000000.0,100491683.0,80.0,24.788,6.2,551.0,Family,Animation,Comedy,Klasky-Csupo,Nickelodeon Movies,Paramount Pictures,United States of America,70491683.0,2.3497227666666665
+698508,Redeeming Love,en,2022-01-21,30000000,9500000.0,134.0,81.39,7.9,519.0,Romance,Drama,Western,Mission Pictures International,Advantage Entertainment,Pinnacle Peak Pictures,South Africa,-20500000.0,-0.6833333333333333
+67913,The Guard,en,2011-07-07,6000000.0,19560274.0,96.0,26.559,7.0,1194.0,Action,Comedy,Thriller,Prescience,UK Film Council,Reprisal Films,Ireland,13560274.0,2.2600456666666666
+38321,Priest,en,2011-05-05,60000000,78309131.0,87.0,43.272,5.801,2234.0,Action,Fantasy,Horror,Michael De Luca Productions,Stars Road Entertainment,TOKYOPOP,United States of America,18309131.0,0.3051521833333333
+73567,Killer Joe,en,2012-06-07,10000000,4633668.0,102.0,21.697,6.5,1391.0,Crime,Comedy,Thriller,ANA Media,Worldview Entertainment,Voltage Pictures,United States of America,-5366332.0,-0.5366332
+50456,Hanna,en,2011-04-07,30000000,63782078.0,111.0,38.457,6.6,3330.0,Action,Thriller,Adventure,Focus Features,Neunte Babelsberg Film,Holleran Company,Germany,33782078.0,1.1260692666666667
+670428,PG: Psycho Goreman,en,2020-10-29,1700000.0,95384.0,95.0,24.563,6.0,345.0,Science Fiction,Comedy,Horror,Dystopia Films,Raven Banner Entertainment,PurpleDOG,Canada,-1604616.0,-0.9438917647058823
+8265,Welcome to the Sticks,fr,2008-02-20,11000000.0,245144417.0,106.0,27.931,6.679,2404.0,Comedy,Drama,Romance,TF1 Films Production,Hirsch,Les Productions du Chicon,France,234144417.0,21.285856090909093
+366672,Paws of Fury: The Legend of Hank,en,2022-07-14,45000000.0,42500000.0,94.0,31.334,6.7,291.0,Animation,Adventure,Comedy,Flying Tigers Entertainment,Aniventure,HB Wink Animation,Canada,-2500000.0,-0.05555555555555555
+567604,Once Upon a Deadpool,en,2018-12-11,110000000,51349833.0,118.0,51.594,7.1,771.0,Comedy,Action,Adventure,20th Century Fox,Genre Films,Maximum Effort,United States of America,-58650167.0,-0.5331833363636364
+253412,Everest,en,2015-09-10,55000000,203427584.0,121.0,52.961,6.8,4822.0,Adventure,Drama,History,Cross Creek Pictures,Working Title Films,Walden Media,Iceland,148427584.0,2.6986833454545454
+516632,The Empty Man,en,2020-10-22,16000000.0,4796993.0,137.0,28.735,6.1,799.0,Horror,Mystery,Thriller,BOOM! Studios,Out of Africa Entertainment,20th Century Fox,South Africa,-11203007.0,-0.7001879375
+9669,Ring 2,ja,1999-01-23,6000000.0,31365000.0,95.0,29.42,5.8,408.0,Horror,Mystery,Science Fiction,KADOKAWA Shoten,Asmik Ace Entertainment,Fuji Television Network,Japan,25365000.0,4.2275
+512196,Happy Death Day 2U,en,2019-02-13,9000000.0,64600000.0,100.0,35.465,6.305,3350.0,Comedy,Horror,Science Fiction,Digital Riot Media,Blumhouse Productions,Universal Pictures,United States of America,55600000.0,6.177777777777778
+531499,The Tax Collector,en,2020-08-07,30000000,942666.0,95.0,23.687,5.645,469.0,Action,Crime,Drama,Cross Creek Pictures,Cedar Park Entertainment,Faster Horse Pictures,United States of America,-29057334.0,-0.9685778
+2135,The Time Machine,en,2002-03-04,80000000,123700000.0,96.0,64.476,6.3,2244.0,Science Fiction,Adventure,Action,DreamWorks Pictures,Warner Bros. Pictures,Parkes/MacDonald Productions,United States of America,43700000.0,0.54625
+631843,Old,en,2021-07-21,18000000,90146510.0,108.0,42.641,6.334,4387.0,Thriller,Mystery,Horror,Universal Pictures,Perfect World Pictures,Blinding Edge Pictures,China,72146510.0,4.008139444444445
+335797,Sing,en,2016-11-23,75000000,634151679.0,108.0,123.549,7.1,7877.0,Animation,Comedy,Family,Illumination,Universal Pictures,Fuji Television Network,Japan,559151679.0,7.45535572
+82703,Mr. Peabody & Sherman,en,2014-02-07,145000000,272912430.0,92.0,59.314,6.7,2329.0,Animation,Adventure,Family,Pacific Data Images,DreamWorks Animation,Bullwinkle Studios,United States of America,127912430.0,0.8821546896551724
+340102,The New Mutants,en,2020-04-02,67000000,49169594.0,94.0,37.671,6.1,3382.0,Science Fiction,Horror,Action,20th Century Studios,Genre Films,Sunswept Entertainment,United States of America,-17830406.0,-0.26612546268656717
