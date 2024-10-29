@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import OneHotEncoder
 
 def run_on_rfc_model (value_to_predict, dependent_var, columns_to_drop, random_state=0):
-  print (f'Value to predict: {value_to_predict}, dependent_var: {dependent_var}, columns_to_drop: {columns_to_drop}, random_state: {random_state}')
 
   columns_to_check = ['budget', 'runtime', 'genres_0_name', 'genres_1_name', 'genres_2_name']
 
@@ -59,15 +58,11 @@ def run_on_rfc_model (value_to_predict, dependent_var, columns_to_drop, random_s
   balanced_accuracy = balanced_accuracy_score(y_test, y_pred)
 
   # Print the balanced accuracy score
-  print(f"Balanced accuracy score: {balanced_accuracy}")
+  print(f"\r\nBalanced accuracy score: {balanced_accuracy}")
 
   # Print the classification report
-  print("Classification report:")
+  print("\r\nClassification report:")
   print(classification_report(y_test, y_pred))
-
-  # Print the confusion matrix
-  print("Confusion matrix:")
-  print(confusion_matrix(y_test, y_pred))
 
   # Plot the confusion matrix
   cm = confusion_matrix(y_test, y_pred)
@@ -75,6 +70,10 @@ def run_on_rfc_model (value_to_predict, dependent_var, columns_to_drop, random_s
   plt.xlabel("Predicted")
   plt.ylabel("Actual")
   plt.show()
+
+  feature_importances = model.feature_importances_
+  importances_sorted = sorted(zip(feature_importances, X_test), reverse=True)
+  print(f'\r\nFeature Importance: \r\n{importances_sorted[:14]}')
 
   value_to_predict_df = pd.DataFrame(value_to_predict)
 
@@ -99,7 +98,7 @@ def run_on_rfc_model (value_to_predict, dependent_var, columns_to_drop, random_s
   prediction = model.predict(value_to_predict_df)
 
   # Print the prediction
-  print(f"Prediction: {prediction}")
+  print(f"\r\nPrediction: {prediction}")
 
   return prediction
 
