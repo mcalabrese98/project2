@@ -91,9 +91,6 @@ def run_on_rfc_model (value_to_predict, dependent_var, columns_to_drop, random_s
   # Ensure the column order in value_to_predict_df matches the column order in X_train
   value_to_predict_df = value_to_predict_df[X_train.columns]
 
-  # Create the value to predict
-  # value_to_predict = pd.DataFrame(value_to_predict).T
-
   # Make the prediction
   prediction = model.predict(value_to_predict_df)
 
