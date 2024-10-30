@@ -15,10 +15,10 @@ def run_on_rfc_model (value_to_predict, dependent_var, columns_to_drop, random_s
     return
 
   # Load the data
-  movie_data_train_path = Path("movie_data_train.csv")
+  movie_data_train_path = Path("../source_data/movie_data_train.csv")
   movie_data_train_df = pd.read_csv(movie_data_train_path)
 
-  movie_data_test_path = Path("movie_data_test.csv")
+  movie_data_test_path = Path("../source_data/movie_data_test.csv")
   movie_data_test_df = pd.read_csv(movie_data_test_path)
 
   # Drop columns
